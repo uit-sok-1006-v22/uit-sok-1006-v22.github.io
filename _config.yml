@@ -1,6 +1,6 @@
 
 #----------Instillinger: Boks på toppen av side----------------------------------------------------------------------
-bilde: assets/img/Sok-1006.jpg #Emnebilde
+bilde: https://raw.githubusercontent.com/uit-econ/hovedside/main/assets/img/Sok-1006.jpg?raw=true #Emnebilde
 name: Sok-1006 Mikroøkonomi - Økonomisk atferd, markeder og priser #Emnetittel
 semester: Vår 2022
 
