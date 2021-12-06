@@ -5,15 +5,15 @@
 Forelesnings- og seminarplanene inneholder informasjon om tidspunkt, tema, faglærer samt ressurser/oppgaver til hvert tema.  
 Innleveringsplanen gir oppgaver, frister og ressurser i forbindelse med obligatoriske innleveringer.  
 
-- [Forelesningsplan](forelesningsplan.md){:target="blank"}
-- [Seminarplan](seminarplan.md){:target="blank"}
-- [Innleveringsplan](innleveringer.md){:target="blank"}   
+- [Forelesningsplan](){:target="blank"}
+- [Seminarplan](){:target="blank"}
+- [Innleveringsplan](){:target="blank"}   
 
-Opptak av forelesningene ligger på [Mediasite](https://mediasite.uit.no/Mediasite/Catalog/Full/dcf1cefd1c1f4c8fb684abd0b45c580e21){:target="blank"}   
+Opptak av forelesningene ligger på [Mediasite](){:target="blank"}   
 
 
 
-[Timeplan](https://timeplan.uit.no/emne_timeplan.php?sem=22v&module[]=SOK-1006-1#week-49){:target="blank"} på timeplan.uit.no
+[Timeplan](https://timeplan.uit.no/emne_timeplan.php?sem=22v&module[%20]=SOK-1006-1#week-49){:target="blank"} på timeplan.uit.no
 
 
 ## Kursbeskrivelse 
