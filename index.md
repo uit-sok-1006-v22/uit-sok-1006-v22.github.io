@@ -25,11 +25,11 @@ Kurset består av forelesninger og en seminarrekke (workshop). Forelesningene f�
 
 ## Faglærerinfo  
 
-# Forelesninger 
+### Forelesninger 
 
 [Joachim Thøgersen](https://www.oslomet.no/om/ansatt/joachim/){:target="blank"}, OsloMet
 
-# Seminar/Workshop
+### Seminar/Workshop
 
 - [Derek J. Clark](https://uit.no/ansatte/derek.clark){:target="blank"} (fagansvarlig)
 - [Espen Sirnes](https://uit.no/ansatte/person?p_document_id=41418){:target="blank"}
@@ -43,11 +43,11 @@ For henvendelser av administrative art send e-post til: <hhcampus@hjelp.uit.no>.
 
 ## Pensum  
 
-# Pensum til forelesningene
+### Pensum til forelesningene
 
 [Leganto](https://bibsys-c.alma.exlibrisgroup.com/leganto/readinglist/lists/8768094470002205?institute=47BIBSYS_UBTO&auth=SAML){:target="blank"}  
 
-# Pensum til seminarene   
+### Pensum til seminarene   
 Kommer
 
 
