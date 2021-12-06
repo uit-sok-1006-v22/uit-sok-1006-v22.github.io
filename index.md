@@ -5,11 +5,11 @@
 Forelesnings- og seminarplanene inneholder informasjon om tidspunkt, tema, faglærer samt ressurser/oppgaver til hvert tema.  
 Innleveringsplanen gir oppgaver, frister og ressurser i forbindelse med obligatoriske innleveringer.  
 
-- [Forelesningsplan](){:target="blank"}
-- [Seminarplan](){:target="blank"}
-- [Innleveringsplan](){:target="blank"}   
+- [Forelesningsplan](forelesningsplan.md){:target="blank"}
+- [Seminarplan](seminarplan.md){:target="blank"}
+- [Innleveringsplan](innleveringer.md){:target="blank"}   
 
-Opptak av forelesningene ligger på [Mediasite](){:target="blank"}   
+Opptak av forelesningene ligger på [Panopto](){:target="blank"}   
 
 
 
