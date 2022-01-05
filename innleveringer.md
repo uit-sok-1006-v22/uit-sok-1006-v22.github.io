@@ -9,14 +9,9 @@
 
 | Type oppgave <img width=80/>   |  Oppgavetekst  <img width=300/>       | Innleveringsfrist <img width=80/> | Ressurser <img width=200/>  |
 |----------------|----------------------------------------------------------------------|-----------|--------------------------------------|
-|Arbeidskrav 1   |     |        |    |
-|Arbeidskrav 1   |                         |     |   |
-|Mappeoppgave 1   |                       |       |     |
-|Arbeidskrav 3   |                    |     |    |
-|Arbeidskrav 4   |                    |     |    |
-|Mappeoppgave 2   |                        |   |   |
-|Arbeidskrav 5   |                      |      |    |
-|Arbeidskrav 6   |                      |      |    |
-|Mappeoppgave 3   |                      |        |      |
-|Mappeoppgave 4   |                   |        |    |
+|Arbeidskrav 1   | Skriftlig innlevering      |        |    |
+|Arbeidskrav 2   | Muntlig presentasjon                        |     |   |
+|Mappeoppgave 1  | Skriftlig                      |       |     |
+|Mappeoppgave 2   | Prosjektoppgave                       |   |   |
+
 
