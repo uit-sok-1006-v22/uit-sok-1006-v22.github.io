@@ -8,7 +8,7 @@
 | 12|S3    | Tilbud og etterspørsel II - markedslikevekt og økonomisk politikk         |       | Kap 3   |
 | 13|S4    | Produksjon I - teknologi        |       |Kap 4   |
 | 14| S5| Produksjon II - kostnader og kostnadsminimering     |  |Kap 5   |
-| 16|  S6| Produksjon III - bedriftens produkttilbud og faktoretterspørsel       |Kap 6  |
+| 16|  S6| Produksjon III - bedriftens produkttilbud og faktoretterspørsel |      |Kap 6  |
 | 17| S7  | Konsumentteori I - Nyttemaksimering og etterspørsel   |  |Kap 7/8  |
 | 18| S8  | Konsumentteori II - endring i etterspørsel    |  |Kap 8    |
 | 19| S9 | Fullkommen konkurranse - velferd og økonomisk politikk     |  |Kap 9   |
