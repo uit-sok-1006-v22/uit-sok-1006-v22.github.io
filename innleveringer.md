@@ -9,9 +9,10 @@
 
 | Type oppgave <img width=80/>   |  Oppgavetekst  <img width=300/>       | Innleveringsfrist <img width=80/> | Ressurser <img width=200/>  |
 |----------------|----------------------------------------------------------------------|-----------|--------------------------------------|
-|Arbeidskrav 1   | Skriftlig innlevering      |        |    |
+|Arbeidskrav 1   | Skriftlig innlevering (1000 ord)      |        |    |
 |Arbeidskrav 2   | Muntlig presentasjon                        |     |   |
-|Mappeoppgave 1  | Skriftlig                      |       |     |
+|Mappeoppgave 1  | Skriftlig (2000 ord)                     |       |     |
 |Mappeoppgave 2   | Prosjektoppgave                       |   |   |
 
 
+Arbeidskrav og mappeoppgaver kan skrives i grupper på maksimalt 3.
