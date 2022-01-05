@@ -1,5 +1,9 @@
 {% include navbar_open.html %}
-## Seminarplan
+## Seminarplan   
+
+Vi kommer i hovedsak til å bruke Python som verktøy for å få en nærmere forståelse av mikroøkonomi.   
+
+Se gjerne over forelesningene fra Sok-1003 før seminarrekken begynner (spesielt notebooks 1-5).   
 
 |Uke| Seminarnr. <img width=100/>   | Tema  <img width=350/>     | Lærer <img width=100/>  | Oppgaver og ressurser <img width=200/>  |
 |----|------------|----------------------------------------------------------------|-----------|--------------------------------------|
