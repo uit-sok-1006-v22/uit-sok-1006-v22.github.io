@@ -1,3 +1,5 @@
+{% include navbar_open.html %}
+
 ## Seminar 1 - Tilbud og etterspørsel   
 
 Det kan være lurt å løse disse oppgavene ved hjelp av Python.   
