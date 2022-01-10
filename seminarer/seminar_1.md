@@ -23,7 +23,7 @@ d) En lineær tilbudsfunksjon skrives som
    x^{S}=\alpha+\beta p
 \end{equation}
 
-hvor $\alpha, \beta$ er positive parametre.
+hvor $\alpha<0, \beta>0$.
 Tegn denne funksjonen i en figur, og vis hvordan den påvirkes av de endringene du diskuterte under c). Hva fanger opp parametrene $\alpha, \beta$?   
 e) Hva karakteriserer en markedslikevekt? Bruk (1) og (2) og finn likevekten.  
 f) Regn ut og vis i fire figurer hvordan endringer i i) _a_, ii) _b_, iii) $\alpha$ og iv) $\beta$ påvirker tilbud, etterspørsel, likevektsprisen og -kvantumet. Forklar intuisjonen bak dine resultater.      
@@ -74,7 +74,7 @@ a) I 1955 estimerte Daniel Suits en modell av vannmelonmarkedet i USA, og kom fr
    ln x^{D}=1.4 ln y - 0.9 ln p
 \end{equation}
 
-hvor $x^D$ er etterspørsel per person $y$ er konsumentens inntekt, $p$ er prisen på vannmeloner. Hvor mye endres etterspørselen når (i) $p$ øker, (ii) $y$ øker?   
+hvor $x^D$ er etterspørsel per person $y$ er konsumentens inntekt, og $p$ er prisen på vannmeloner. Hvor mye endres etterspørselen når (i) $p$ øker, (ii) $y$ øker?   
 
 b) Epple og MacCallum (2006) har estimert tilbud og etterspørsel i markedet for kylling. Les [avsnittene som er merket med gult](/seminarer/chicken_economicinquiry merket.pdf){:target="_blank"}, og forklar likning (1) og (2) s. 375.
 
