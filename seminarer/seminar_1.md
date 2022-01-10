@@ -20,10 +20,10 @@ c)  Hva viser markedets tilbud, og hvilke faktorer og variabler påvirker den?
 d) En lineær tilbudsfunksjon skrives som 
 
 \begin{equation}
-   x^{S}=\alpha+\beta p
+   x^{S}=-\alpha+\beta p
 \end{equation}
 
-hvor $\alpha<0, \beta>0$.
+hvor $\alpha>0, \beta>0$.
 Tegn denne funksjonen i en figur, og vis hvordan den påvirkes av de endringene du diskuterte under c). Hva fanger opp parametrene $\alpha, \beta$?   
 e) Hva karakteriserer en markedslikevekt? Bruk (1) og (2) og finn likevekten.  
 f) Regn ut og vis i fire figurer hvordan endringer i i) _a_, ii) _b_, iii) $\alpha$ og iv) $\beta$ påvirker tilbud, etterspørsel, likevektsprisen og -kvantumet. Forklar intuisjonen bak dine resultater.      
