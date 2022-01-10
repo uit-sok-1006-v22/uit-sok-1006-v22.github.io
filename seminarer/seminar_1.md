@@ -2,7 +2,7 @@
 
 ## Seminar 1 - Tilbud og etterspørsel   
 
-Det kan være lurt å løse disse oppgavene ved hjelp av Python.   
+Det kan være lurt å løse oppgave 1 og 2 ved hjelp av Python.   
 
 ### Oppgave 1   
 
@@ -26,7 +26,7 @@ d) En lineær tilbudsfunksjon skrives som
 hvor $\alpha, \beta$ er positive parametre.
 Tegn denne funksjonen i en figur, og vis hvordan den påvirkes av de endringene du diskuterte under c). Hva fanger opp parametrene $\alpha, \beta$?   
 e) Hva karakteriserer en markedslikevekt? Bruk (1) og (2) og finn likevekten.  
-f) Regn ut og vis i fire figurer hvordan endringer i i) _a_, ii) _b_, iii) $\alpha$ og iv) $\beta$ påvirker likevektsprisen og -kvantumet. Forklar intuisjonen bak dine resultater.      
+f) Regn ut og vis i fire figurer hvordan endringer i i) _a_, ii) _b_, iii) $\alpha$ og iv) $\beta$ påvirker tilbud, etterspørsel, likevektsprisen og -kvantumet. Forklar intuisjonen bak dine resultater.      
 
 
 ### Oppgave 2   
@@ -45,7 +45,7 @@ Tegn dette i en figur sammen med tilbudsfunksjonen
 \end{equation}
 
 hvor _m_ og _s_ er positive tall: $m=1$, $s=0,5$.   
-b) Regn ut markedslikevekten. Vis hvordan likevekten påvirkes når modellens parametre endres. Forklar dine resultater.   
+b) Regn ut markedslikevekten (i) for de gitte tallene, og (ii) for alle parameterverdier. Vis hvordan tilbuds- og etterspørselsfunksjonene og likevekten påvirkes når modellens parametre endres. Forklar dine resultater.   
 
 ### Oppgave 3   
 a) Hva viser etterspørselens og tilbudets priselastisitet? Gi en intuitiv forklaring på formelen som brukes for å regne disse ut.   
