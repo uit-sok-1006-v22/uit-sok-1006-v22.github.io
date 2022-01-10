@@ -10,7 +10,7 @@ a) Hva viser markedets etterspørsel, og hvilke faktorer og variabler påvirker 
 b) En lineær etterspørselsfunksjon skrives som 
 
 \begin{equation}
-   x^{D}\=\a\-\bp
+   x^{D}\:=\:a\:-\:bp
 \end{equation}
 
 
