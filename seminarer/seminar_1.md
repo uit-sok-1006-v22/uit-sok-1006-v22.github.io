@@ -51,14 +51,14 @@ b) Regn ut markedslikevekten. Vis hvordan likevekten påvirkes når modellens pa
 a) Hva viser etterspørselens og tilbudets priselastisitet? Gi en intuitiv forklaring på formelen som brukes for å regne disse ut.   
 b) Regn ut etterspørselselastisitetene for (1) og (3).
 Tegn figurer for hvert tilfelle som viser hvordan elastisitetene endrer seg når pris øker. Hva skjer med elastistitetene i hvert tilfellet når vi beveger oss langs etterspørselskurven?    
-c) Gjør det samme som i b) for tilbudsfunksjonene.
+c) Gjør det samme som i b) for tilbudsfunksjonene.   
 d) Bedriftens inntekt er gitt ved pris ganget med etterspurt kvantum (som er en funksjon på pris):
 
 \begin{equation}
    R=px^{D}(p)
 \end{equation}
 
-Finn betingelser knyttet til etterspørselens priselastisitet som sikrer at en prisøkning fører til at bedriftens inntekt øker. (Dvs når er $\frac{dR/dp}\>0 $?).   
+Finn betingelser knyttet til etterspørselens priselastisitet som sikrer at en prisøkning fører til at bedriftens inntekt øker. (Dvs når er $\frac{dR}{dp}\>0 $?).   
 
 ### Opgave 4
 
