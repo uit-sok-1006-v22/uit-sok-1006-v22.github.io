@@ -76,7 +76,7 @@ a) I 1955 estimerte Daniel Suits en modell av vannmelonmarkedet i USA, og kom fr
 
 hvor $x^D$ er etterspørsel per person $y$ er konsumentens inntekt, og $p$ er prisen på vannmeloner. Hvor mye endres etterspørselen når (i) $p$ øker, (ii) $y$ øker?   
 
-b) Epple og MacCallum (2006) har estimert tilbud og etterspørsel i markedet for kylling. Les [avsnittene som er merket med gult](/seminarer/chicken_economicinquiry merket.pdf){:target="_blank"}, og forklar likning (1) og (2) s. 375.
+b) Epple og MacCallum (2006) har estimert tilbud og etterspørsel i markedet for kylling. Les [avsnittene som er merket med gult](/seminarer/chicken_economicinquiry merket.pdf){:target="blank"}, og forklar likning (1) og (2) s. 375.
 
 c) Epple og McCallum estimerer likning (1) og (2) og presenterer resultatene i likning (7) og (4) på side 376/7. Gi en forklaring av koeffisientene i disse likningene; hvorfor var forfatterne ikke fornøyd med disse likningene som en spesifikasjon av tilbud og etterspørsel?   
 d) Til slutt ender forfatterne opp med likning (14) som beskriver (invers) etterspørsel, (15) som invers tilbud på lang sikt, og (16) som invers tilbud på kort sikt. Hva er etterspørselens priselastisitet fra likning (14)?   
@@ -85,5 +85,21 @@ f) I Figur 2 tegnes likevekten i 1960 og 1995. Forklar figuren, og gi grunner ti
 
 ### Oppgave 5   
 
-Les
+[Cooper (2003)](/seminarer/Cooper.2003.OPECReview.PriceElasticityofDemandforCrudeOil.pdf){:target="blank"} estimerer etterspørselen etter olje i 23 land i perioden 1971-2000. Han legger til grunn følgende likning:
+
+\begin{equation}
+   ln D_t=ln\alpha +\beta ln P_t +\gamma ln Y_t +\delta ln D_{t-1} + \epsilon_t
+\end{equation}
+
+hvor
+- $D_t$ er konsum av olje per innbygger i år t
+- $P_t$ er prisen på olje i år t
+- $Y_t$ er BNP per innbygger i år t
+- $\epsilon$  er et tilfeldig feilledd.
+
+Her er $\beta$ etterspørselsens priselastisitet på kort sikt, mens priselastisiteten på lang sikt er gitt ved $\frac {\beta}{1-\delta}$. Med "lang sikt" menes her $D_t=D_{t-1}$.   
+a) Er estimatene av etterspørselens priselastisitet på kort og lang sikt i tråd med økonomisk teori (c.f oppgave 4e)?    
+b) På 1970-tallet produserte OPEC landene ca 65% av verdens olje. Hvorfor gjorde denne organisasjon mange forsøk på å redusere tilbudet av olje?   
+c) Er det grunn til å tro at silke produksjonsorganisasjoner har en vanskeligere jobb i dag dersom de skal prøve å påvirke oljeprisen? (Se for eksempel [denne artikkelen](https://www.dn.no/olje/oljemarkedet/opec/olje-og-gass/oljeprisen-falt-etter-opec-enighet-om-a-ga-videre-med-produksjonsokning-men-henter-seg-inn-igjen/2-1-1111584){:target="blank"}.
+
 
