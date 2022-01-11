@@ -9,8 +9,7 @@ Innleveringsplanen gir oppgaver, frister og ressurser i forbindelse med obligato
 - [Seminarplan](seminarplan.md){:target="blank"}
 - [Innleveringsplan](innleveringer.md){:target="blank"}   
 
-Opptak av forelesningene ligger på [Panopto](){:target="blank"}   
-Se forøvrige Canvas siden til [SOK-1002](https://uit.instructure.com/courses/25558){:target="blank"} som har samme forelesningsrekke som dette kurset.
+Opptak av forelesningene og en del andre ressurser ligger på Canvas siden til [SOK-1002](https://uit.instructure.com/courses/25558){:target="blank"} som har samme forelesningsrekke som dette kurset.
 
 
 
@@ -49,7 +48,7 @@ For henvendelser av administrative art send e-post til: <hhcampus@hjelp.uit.no>.
 [Leganto](https://bibsys-c.alma.exlibrisgroup.com/leganto/readinglist/lists/8768094470002205?institute=47BIBSYS_UBTO&auth=SAML){:target="blank"}  
 
 ### Pensum til seminarene   
-Kommer
+Se [Seminarplan](seminarplan.md){:target="blank"}    
 
 
 
