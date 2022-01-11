@@ -10,6 +10,7 @@ Innleveringsplanen gir oppgaver, frister og ressurser i forbindelse med obligato
 - [Innleveringsplan](innleveringer.md){:target="blank"}   
 
 Opptak av forelesningene ligger på [Panopto](){:target="blank"}   
+Se forøvrige Canvas siden til [SOK-1002](https://uit.instructure.com/courses/25558){:target="blank"} som har samme forelesningsrekke som dette kurset.
 
 
 
