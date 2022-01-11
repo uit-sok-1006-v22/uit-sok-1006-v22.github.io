@@ -7,7 +7,7 @@ Se gjerne over forelesningene fra Sok-1003 før seminarrekken begynner (spesielt
 
 |Uke| Seminarnr. <img width=100/>   | Tema  <img width=350/>     | Lærer <img width=100/>  | Oppgaver og ressurser <img width=200/>  |
 |----|------------|----------------------------------------------------------------|-----------|--------------------------------------|
-| 9| S1  | Tilbud og etterspørsel I          |       |Kap 3 [Oppgaver](seminarer/seminar_1.md){:target="_blank"} |
+| 9| S1  | Tilbud og etterspørsel I          |       |Kap 3 [Oppgaver](seminarer/seminar_1.md){:target="blank"} |
 | 11|S2    | Tilbud og etterspørsel II - økonomisk politikk         |       | Kap 3   |
 | 12|S3    | Produksjon I - teknologi        |       |Kap 4   |
 | 13|S4    | Produksjon II - kostnader og kostnadsminimering     |  |Kap 5   |
