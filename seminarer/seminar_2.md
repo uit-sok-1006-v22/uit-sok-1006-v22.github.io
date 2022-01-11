@@ -45,7 +45,7 @@ I Oppgave 2 så vi at selv om avgiften er pålagt selgere, veltes en del av dett
 
 
 \begin{equation}
-   x^{S}= -\alpha + \betap
+   x^{S}= -\alpha + \beta p
 \end{equation}
 
 hvor alle parametre er positive tall.   
