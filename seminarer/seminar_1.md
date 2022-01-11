@@ -60,7 +60,7 @@ d) Bedriftens inntekt er gitt ved pris ganget med etterspurt kvantum (som er en 
 
 Finn betingelser knyttet til etterspørselens priselastisitet som sikrer at en prisøkning fører til at bedriftens inntekt øker. (Dvs når er $\frac{dR}{dp}\>0 $?).   
 
-### Opgave 4
+### Oppgave 4
 
 Betrakt etterspørselsfunksjonen gitt ved (3). Ved å ta naturlige logaritmer (ln) av begge sidene, vis at etterspørselsen kan skrives som:
 
