@@ -45,13 +45,19 @@ I Oppgave 2 så vi at selv om avgiften er pålagt selgere, veltes en del av dett
 
 
 \begin{equation}
-   x^{S}= -$\alpha$ + $\beta$p
+   x^{S}= -\alpha + \betap
 \end{equation}
 
 hvor alle parametre er positive tall.   
 a) La $a=504, b=2, \alpha=100, \beta=4.3$. Hvor mye av en produsentavgift på $\tau=4$ må betales av kjøpere og selgere nå? Tegn en figur som viser denne likevekten, og sammenlikn svaret med eksempelet i Fig 3.22 i læreboka (tegn gjerne begge eksemplene i samme figur). Hvilke konklusjoner trekker du foreløpig om hva det er som kan påvirke fordelingen av avgiften mellom de to sidene av markedet? Hva er intuisjonen bak resultatet?
 b) En avgift på $\tau$kr per enhet solgt pålegges selgerne i dette markedet. Regn ut likevektsprien for kjøpere, selgere og kvantum omsatt som en funksjon av $\tau$. Sjekk at løsningen for $\tau =0$ er det samme som du fant i seminar 1, oppgave 1e).   
-c) La oss kalle likevektsprisen til konsumenten $p^{\*D}(\tau)$, og til produsenten $p^{\*S}(\tau)=p^{\*D}(\tau)-\tau$. Gitt en avgift på $\tau$kr per enhet, må kjøpere betale andel $ A^{KONS}=\frac{p^{\*D}(\tau)-p^{\*D}(0)}{\tau}$, mens selgere må betale en andel $A^{SELG}=1-A^{KONS}$. Forklar dette (tegn gjerne en figur for å hjelpe til med forklaringen). Regn ut $A^{KONS}, A^{SELG}$. Hvordan avhenger disse størrelsene på modellens parametre ($a,b,\alpha,\beta$)?   
+c) La oss kalle likevektsprisen til konsumenten $p^{\*D}(\tau)$, og til produsenten $p^{\*S}(\tau)=p^{\*D}(\tau)-\tau$. Gitt en avgift på $\tau$kr per enhet, må kjøpere betale andel
+
+\begin{equation}
+   A^{KONS}=\frac{p^{\*D}(\tau)-p^{\*D}(0)}{\tau}
+\end{equation}
+
+mens selgere må betale en andel $A^{SELG}=1-A^{KONS}$. Forklar dette (tegn gjerne en figur for å hjelpe til med forklaringen). Regn ut $A^{KONS}, A^{SELG}$. Hvordan avhenger disse størrelsene av modellens parametre ($a,b,\alpha,\beta$)?   
 d) Bruk din analyse for å forklare følgende setning fra læreboka (s. 103): "Teorien forteller oss at det er elastisiteten eller prisfølsomheten til etterspørselen og tilbudet som er avgjørende for hvor stpr andel av avgiften konsumentene og produsentene må betale".
 
 
