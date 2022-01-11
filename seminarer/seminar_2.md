@@ -56,7 +56,9 @@ d) Bruk din analyse for å forklare følgende setning fra læreboka (s. 103): "T
 
 
 
-### Opgave 4
+### Oppgave 4   
+
+Kommer - om maks og min priser
 
 
 
