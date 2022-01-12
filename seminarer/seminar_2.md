@@ -64,7 +64,10 @@ d) Bruk din analyse for å forklare følgende setning fra læreboka (s. 103): "T
 
 ### Oppgave 4   
 
-Kommer - om maks og min priser
+a) Hvordan fungerer en maksimalpris ("price ceiling" på engelsk)? Hvorfor vil norsk myndigheter bruke dette virkemiddelet på noen områder (for eksempel [legemidler](https://www.regjeringen.no/no/tema/helse-og-omsorg/legemidler/innsikt/prisregulering/id226506/){:target="blank"}, [drosjeturer](https://konkurransetilsynet.no/tema/drosje/prisregulering-og-maksimalpriser/){:target="blank"} og [barnehageplasser](https://www.regjeringen.no/no/aktuelt/200-000-smabarnsfamiliar-far-billigare-barnehage/id2884980/){:target="blank"}), men ikke andre (for eksempel [strøm](https://www.stortinget.no/no/Saker-og-publikasjoner/Sporsmal/Skriftlige-sporsmal-og-svar/Skriftlig-sporsmal/?qid=87148&utm_medium=rss&utm_source=www.stortinget.no&utm_campaign=Olje-%20og%20energiministeren%20(besvarte%20skriftlige%20sp%C3%B8rsm%C3%A5l)){:target="blank"}.   
+b) Hvordan fungerer en minstepris? Brukes dette virekemiddelet i Norge? Gi eksempler, gjerne med en diskusjon om hvorfor minstepris er tatt i bruk i hvert eksempel.   
+
+
 
 
 
