@@ -1,4 +1,5 @@
 {% include navbar_open.html %}
+# Sok-1006 Mikroøkonomi   
 
 ## Seminar 2 - Tilbud og etterspørsel - økonomisk politikk   
 
