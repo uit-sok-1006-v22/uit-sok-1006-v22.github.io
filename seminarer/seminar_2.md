@@ -3,13 +3,13 @@
 
 ## Seminar 2 - Tilbud og etterspørsel - økonomisk politikk   
 
-Det er lurt å bruke egnet verktøy for å løse disse oppgavene.   
+   
 
 ### Oppgave 1   
 
 Gjør oppgavene fra [Core Project 7](https://www.core-econ.org/doing-economics/book/text/07-01.html#introduction){:target="blank"}. Her møter du igjen Suit sin modell for tilbud av og etterspørsel etter vannmeloner. Se foreløpig bort fra oppgave 3c i delkap 7.1 (overskuddsbetraktninger kommer vi tilbake til i kap 9). Her lærer du noe mer om hvordan man fremstiller tilbud og etterspørsel basert på faktisk data, tolkning av empiriske resultater, og hvordan man modellerer skift i kurvene.       
 
-R-koden et gitt i gjennomgangen av oppgaven. Klarer du det samme med Python?
+R-koden et gitt i gjennomgangen av oppgaven. Løs oppgavene ved hjelp av Python. (Dette vil hjelpe dere til å løse Mappeoppgave 1).   
 
 ### Oppgave 2   
 
