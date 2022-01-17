@@ -23,6 +23,8 @@ Kurset tas normalt i andre semester, og teller 10 studiepoeng.
 
 Kurset består av forelesninger og en seminarrekke (workshop). Forelesningene følger SOK-1002. Seminarene er kun for dette kurset og tar sikte på å koble fagstoff fra forelesninger til verktøy som dere har lært.   
 
+NB. Dere følger kun forelesningene til sok-1002, og behøver ikke å gjøre noen av arbeidskravene eller eksamen fra det kurset.   
+
 ## Faglærerinfo  
 
 ### Forelesninger 
