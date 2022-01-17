@@ -94,7 +94,7 @@ hvor
 - $\epsilon$  er et tilfeldig feilledd.
 
 Her er $\beta$ etterspørselsens priselastisitet på kort sikt, mens priselastisiteten på lang sikt er gitt ved $\frac {\beta}{1-\delta}$. Med "lang sikt" menes her $D_t=D_{t-1}$.   
-a) Er estimatene av etterspørselens priselastisitet på kort og lang sikt i tråd med økonomisk teori (c.f oppgave 4e)?    
+a) Er estimatene av etterspørselens priselastisitet på kort og lang sikt i tråd med økonomisk teori?    
 b) På 1970-tallet produserte OPEC landene ca 65% av verdens olje. Hvorfor gjorde denne organisasjon mange forsøk på å redusere tilbudet av olje?   
 c) Er det grunn til å tro at silke produksjonsorganisasjoner har en vanskeligere jobb i dag dersom de skal prøve å påvirke oljeprisen? (Se for eksempel [denne artikkelen](https://www.dn.no/olje/oljemarkedet/opec/olje-og-gass/oljeprisen-falt-etter-opec-enighet-om-a-ga-videre-med-produksjonsokning-men-henter-seg-inn-igjen/2-1-1111584){:target="blank"}).
 
