@@ -9,7 +9,7 @@ Innleveringsplanen gir oppgaver, frister og ressurser i forbindelse med obligato
 - [Seminarplan](seminarplan.md){:target="blank"}
 - [Innleveringsplan](innleveringer.md){:target="blank"}   
 
-Opptak av forelesningene og en del andre ressurser ligger på Canvas siden til [SOK-1002](https://uit.instructure.com/courses/25558){:target="blank"} som har samme forelesningsrekke som dette kurset.
+Opptak av forelesningene og forelesningsnotater ligger på Canvas siden til [SOK-1002](https://uit.instructure.com/courses/25810){:target="blank"} som har samme forelesningsrekke som dette kurset.
 
 
 
