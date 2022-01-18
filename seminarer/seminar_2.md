@@ -59,7 +59,7 @@ c) La oss kalle likevektsprisen til konsumenten $p^{\*D}(\tau)$, og til produsen
 \end{equation}
 
 mens selgere må betale en andel $A^{SELG}=1-A^{KONS}$. Forklar dette (tegn gjerne en figur for å hjelpe til med forklaringen). Regn ut $A^{KONS}, A^{SELG}$. Hvordan avhenger disse størrelsene av modellens parametre ($a,b,\alpha,\beta$)?   
-d) Bruk din analyse for å forklare følgende setning fra læreboka (s. 103): "Teorien forteller oss at det er elastisiteten eller prisfølsomheten til etterspørselen og tilbudet som er avgjørende for hvor stpr andel av avgiften konsumentene og produsentene må betale".
+d) Bruk din analyse for å forklare følgende setning fra læreboka (s. 103): "Teorien forteller oss at det er elastisiteten eller prisfølsomheten til etterspørselen og tilbudet som er avgjørende for hvor stor andel av avgiften konsumentene og produsentene må betale".
 
 
 
