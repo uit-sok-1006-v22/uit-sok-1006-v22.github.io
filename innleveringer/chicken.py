@@ -40,7 +40,7 @@ def plot_year(df,year):
     y=np.log(d['Y'])
     pb=np.log(d['PBEEF']/cpi)
     N=d['POP']
-    X=d['MEATEX']
+    X=d['QPRODA']/1439-d['Q']*d['POP']
     pf=np.log(d['PF']/cpi)
     t=d['TIME']
     
