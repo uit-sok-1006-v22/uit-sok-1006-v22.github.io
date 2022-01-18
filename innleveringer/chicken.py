@@ -25,7 +25,7 @@ def supply_curve_short_run(c,Q,N,X,pf,t,Q_fitted):
 
 def equate_q(y,pb,N,X,pf,t):
     #Finn verdien for Q som gør at demand_curve og supply_curve_long_run returnerer samme verdi. 
-    #Bruk sp.Eq, og la første argument i funksjonene være sp
+    #Bruk sp.Eq, og la første argument i funksjonene over være sp
     
     return float(sol)
 
@@ -34,7 +34,6 @@ def plot_year(df,year):
 
 
     #obtaining the relevant variables for year:
-    
     d=df[df['YEAR']==year].to_dict(orient='records')[0]
     
     cpi=d['CPI']
@@ -47,7 +46,7 @@ def plot_year(df,year):
     
 
     
-    #finding equilibrium quantity:
+    #obtaining equilibrium quantity:
     Q_fitted=equate_q(y,pb,N,X,pf,t) 
     
 
@@ -57,7 +56,7 @@ def plot_year(df,year):
     #Husk at 
     #1. funksjonene skal opphøyes i eksponenten (dvs. du bruker np.exp(<funksjon>)) for å uttrykkes i nivå
     #2. så skal de multipliseres med cpi
-    #3. første argument er np
+    #3. første argument er np her, ikke sp. 
     
 
     
