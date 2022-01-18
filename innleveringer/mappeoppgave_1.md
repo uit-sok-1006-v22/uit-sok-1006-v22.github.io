@@ -21,7 +21,7 @@
     
     1. funksjonene skal opphøyes i eksponenten (dvs. du bruker `np.exp()`) for å uttrykkes i nivå
     2. så skal de multipliseres med `cpi`
-    3. første argument er `np`
+    3. første argument i tilbuds-/etterspørselsfunksjonene er `np` her, ikke `sp`
     
 5. Du skal nå kunne kjøre følgende kode i samme mappe (bruk for eksempel jupyter). En figur med etterspørsel og langsiktig og kortsiktig tilbud skal da plottes. 
     
