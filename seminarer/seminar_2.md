@@ -50,7 +50,7 @@ I Oppgave 2 så vi at selv om avgiften er pålagt selgere, veltes en del av dett
 \end{equation}
 
 hvor alle parametre er positive tall.   
-a) La $a=504, b=2, \alpha=100, \beta=4.3$. Hvor mye av en produsentavgift på $\tau=4$ må betales av kjøpere og selgere nå? Tegn en figur som viser denne likevekten, og sammenlikn svaret med eksempelet i Fig 3.22 i læreboka (tegn gjerne begge eksemplene i samme figur). Hvilke konklusjoner trekker du foreløpig om hva det er som kan påvirke fordelingen av avgiften mellom de to sidene av markedet? Hva er intuisjonen bak resultatet?
+a) La $a=504, b=2, \alpha=100, \beta=4.3$. Hvor mye av en produsentavgift på $\tau=4$ må betales av kjøpere og selgere nå? Tegn en figur som viser denne likevekten, og sammenlikn svaret med eksempelet i Fig 3.22 i læreboka (tegn gjerne begge eksemplene i samme figur). Hvilke konklusjoner trekker du foreløpig om hva det er som kan påvirke fordelingen av avgiften mellom de to sidene av markedet? Hva er intuisjonen bak resultatet?    
 b) En avgift på $\tau$kr per enhet solgt pålegges selgerne i dette markedet. Regn ut likevektsprien for kjøpere, selgere og kvantum omsatt som en funksjon av $\tau$. Sjekk at løsningen for $\tau =0$ er det samme som du fant i seminar 1, oppgave 1e).   
 c) La oss kalle likevektsprisen til konsumenten $p^{\*D}(\tau)$, og til produsenten $p^{\*S}(\tau)=p^{\*D}(\tau)-\tau$. Gitt en avgift på $\tau$kr per enhet, må kjøpere betale andel
 
