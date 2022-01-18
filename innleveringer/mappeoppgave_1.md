@@ -31,6 +31,7 @@ import chicken
 df=pd.read_csv("https://uit-sok-1006-v22.github.io/innleveringer/chickendata.csv",delimiter=";")
 chicken.plot_year(df,1995)
 ```
+
     i samme mappe (bruk for eksempel jupyter), og en figur med etterspørsel og langsiktig og kortsiktig tilbud skal plottes. 
     
 6. Plott figurer for 1960 og 1995, forklar figuren, og gi grunner til denne utviklingen (s380 i artikkelen).   
