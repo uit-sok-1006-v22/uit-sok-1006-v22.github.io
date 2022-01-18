@@ -19,6 +19,7 @@ def supply_curve_long_run(c,Q,N,X,pf,t):
 
 def supply_curve_short_run(c,Q,N,X,pf,t,Q_fitted):
     #Programmer ligning 16 her. Bruk c.log() for å regne ut logaritmen.
+	#TIPS: qprod i ligningen er (N*Q_fitted+X) her. 
     
     return supply
 
