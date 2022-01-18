@@ -1,17 +1,17 @@
 # Mappeoppgave 1  -   Sok-1006
 
 
-1) Epple og MacCallum (2006) har estimert tilbud og etterspørsel i markedet for kylling. Les [avsnittene som er merket med gult](https://uit-sok-1006-v22.github.io/innleveringer/chicken_economicinquiry merket.pdf){:target="blank"}, og forklar likning (1) og (2) s. 375.
+1. Epple og MacCallum (2006) har estimert tilbud og etterspørsel i markedet for kylling. Les [avsnittene som er merket med gult](https://uit-sok-1006-v22.github.io/innleveringer/chicken_economicinquiry merket.pdf){:target="blank"}, og forklar likning (1) og (2) s. 375.
 
-2) Epple og McCallum estimerer likning (1) og (2) og presenterer resultatene i likning (7) og (4) på side 376/7. Gi en forklaring av koeffisientene i disse likningene; hvorfor var forfatterne ikke fornøyd med disse likningene som en spesifikasjon av tilbud og etterspørsel?   
+2. Epple og McCallum estimerer likning (1) og (2) og presenterer resultatene i likning (7) og (4) på side 376/7. Gi en forklaring av koeffisientene i disse likningene; hvorfor var forfatterne ikke fornøyd med disse likningene som en spesifikasjon av tilbud og etterspørsel?   
 
-3) Til slutt ender forfatterne opp med likning (14) som beskriver (invers) etterspørsel og likningene (15) og (16) som representerer invers tilbud på henholdsvis lang og kort sikt. Hva er etterspørselens priselastisitet fra likning (14)?   
+3. Til slutt ender forfatterne opp med likning (14) som beskriver (invers) etterspørsel og likningene (15) og (16) som representerer invers tilbud på henholdsvis lang og kort sikt. Hva er etterspørselens priselastisitet fra likning (14)?   
 
-4) Programmer ferdig[denne pythonfila](https://uit-sok-1006-v22.github.io/innleveringer/chicken.py). Det som mangler er å 
+4. Programmer ferdig[denne pythonfila](https://uit-sok-1006-v22.github.io/innleveringer/chicken.py). Det som mangler er å 
 
-    1) programmere inn funksjonene (14). (15) og (16)
-    2) å lage en funksjon som finner hvilket kvantum som gir likevekt (tilbud=etterspørsel) 
-    2) å plotte funksjonene. 
+    1. programmere inn funksjonene (14). (15) og (16)
+    2. å lage en funksjon som finner hvilket kvantum som gir likevekt (tilbud=etterspørsel) 
+    2. å plotte funksjonene. 
 
     Hver av tilbud- og etterspørselsfunksjonene har argumentet ´c´ først. Dette argumentet kan enten være sp (sympy) for å regne ut likevekt, eller np (numpy) for å plotte funksjonene. 
     
