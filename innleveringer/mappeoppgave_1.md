@@ -23,7 +23,7 @@
     2. så skal de multipliseres med `cpi`
     3. første argument er `np`
     
-5. Du skal nå kunne kjøre koden
+5. Du skal nå kunne kjøre følgende kode i samme mappe (bruk for eksempel jupyter). En figur med etterspørsel og langsiktig og kortsiktig tilbud skal da plottes. 
     
 ```
 import pandas as pd
@@ -31,8 +31,6 @@ import chicken
 df=pd.read_csv("https://uit-sok-1006-v22.github.io/innleveringer/chickendata.csv",delimiter=";")
 chicken.plot_year(df,1995)
 ```
-
-i samme mappe (bruk for eksempel jupyter), og en figur med etterspørsel og langsiktig og kortsiktig tilbud skal plottes. 
     
 6. Plott figurer for 1960 og 1995, forklar figuren, og gi grunner til denne utviklingen (s380 i artikkelen).   
 
