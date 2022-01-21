@@ -5,9 +5,8 @@
 
 2. Epple og McCallum estimerer likning (1) og (2) og presenterer resultatene i likning (7) og (4) på side 376/7. Gi en forklaring av koeffisientene i disse likningene; hvorfor var forfatterne ikke fornøyd med disse likningene som en spesifikasjon av tilbud og etterspørsel?   
 
-3. Til slutt ender forfatterne opp med likning (14) som beskriver (invers) etterspørsel og likningene (15) og (16) som representerer invers tilbud på henholdsvis lang og kort sikt. 
-    1. Hva er etterspørselens priselastisitet fra likning (14) og hva er tolkningen av denne?
-    2. Dersom pris på storfekjøtt øker med to prosent, inntekt med fem prosent og mengde faller med fire prosent, hva er da den marginale konsumenten i gjennomsnitt villig til å betale for kylling?
+3. Til slutt ender forfatterne opp med likning (14) som beskriver (invers) etterspørsel og likningene (15) og (16) som representerer invers tilbud på henholdsvis lang og kort sikt. Hva er etterspørselens priselastisitet fra likning (14) og hva er tolkningen av denne?
+
 
 4. Programmer ferdig [denne pythonfila](https://uit-sok-1006-v22.github.io/innleveringer/chicken.py). Det som mangler er å 
 
@@ -35,4 +34,6 @@
     ```
     
 6. Plott figurer for 1960 og 1995, forklar figuren, og gi grunner til denne utviklingen (s380 i artikkelen).   
+
+7. Lag ytterligere tre plott i samme figur, der du legger til 0.5 til henholdsvis kvantum, inntekt og storfekjøtt. 
 
