@@ -7,7 +7,7 @@
 
 3. Til slutt ender forfatterne opp med likning (14) som beskriver (invers) etterspørsel og likningene (15) og (16) som representerer invers tilbud på henholdsvis lang og kort sikt. 
     1. Hva er etterspørselens priselastisitet fra likning (14) og hva er tolkningen av denne?
-    2. Dersom storfekjøtt øker med to prosent, inntekt med fem prosent og mengde faller med fire prosent, hva er da den marginale konsumenten i gjennomsnitt villig til å betale for kylling?
+    2. Dersom pris på storfekjøtt øker med to prosent, inntekt med fem prosent og mengde faller med fire prosent, hva er da den marginale konsumenten i gjennomsnitt villig til å betale for kylling?
 
 4. Programmer ferdig [denne pythonfila](https://uit-sok-1006-v22.github.io/innleveringer/chicken.py). Det som mangler er å 
 
