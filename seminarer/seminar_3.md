@@ -44,8 +44,8 @@ c) Beregn gjennomsnittsproduktiviteten til arbeidskraft og kapital for generelle
 d) Bedriftseieren vurderer å kjøpe inn en ny maskin som øker kapitalbeholdningen med 10%. Hvor mye (målt i %) vil produksjon endres?   
 e) Fagforeningen som representerere arbeiderne i bedriften har oppdaget bruk av overtid som er i strid med Arbeidsmiljøloven, og pålegger bedriften å redusere timetallet med 5%. Hvor mye endres produskjson (igjen målt i %)?   
 f) Tegn produksjonsisokvanten for $y=5, s=0,5$. Hva viser isokvanten? Undersøk hva som skjer når $s$ endres til $s=0,2$ og kommenter dine funn.    
-g) Hva viser den marginale tekniske substitusjonsbrøken (MTSB)? Beregn dette for produktfunksjonen i (1). Tegn MTSB i en figur med $s$ på den horisontale aksen, og forklar figuren.  
-h) Viser produktfunksjonen i (1) økende, avtakende eller konstant skalautbytte?   
+g) Hva viser den marginale tekniske substitusjonsbrøken (MTSB)? Beregn dette for produktfunksjonen i (2). Tegn MTSB i en figur med $s$ på den horisontale aksen, og forklar figuren.  
+h) Viser produktfunksjonen i (2) økende, avtakende eller konstant skalautbytte?   
 
 
 ### Oppgave 3   
@@ -58,7 +58,31 @@ En bedrift bruker følgende Cobb-Douglas produktfunksjon til å lage et gode
 \end{equation}
 
 
-hvor $y$ er enheter ferdigprodukt, $N$ er enheter arbeidskraft (målt i timer), $K$ er enheter kapital og $Z>0, a>0, b>0$ er konstante tall.   
+hvor $y$ er enheter ferdigprodukt, $N$ er enheter arbeidskraft (målt i timer), $K$ er enheter kapital og $Z>0, a>0, b>0$ er konstante tall.  
+a) Vis at $a$ er produksjonens elastistitet med hensyn på arbeidskraft, dvs   
+
+\begin{equation}
+   a = f'\_N\frac{y}{N}
+\end{equation}
+
+Tolk denne parameteren.   
+b) Vis at $b$ er produksjonens elastistitet med hensyn på kapital.   
+c) Vis hvordan skalaegenskapene til (3) avhenger av $a+b$.   
+d) Transform (3) ved å ta logaritmer av begge sidene, og vis at teknologien kan skrives som   
+
+\begin{equation}
+   ln y= ln Z + a ln N + b ln K
+\end{equation}
+
+e) Økonom X har data for faktorbruk og produksjon av Dingser, og har estimert følgende sammenheng:
+
+
+\begin{equation}
+  ln y= 3.2 + 0.75 ln N + 1.1 ln K
+\end{equation}
+
+Hvor mye økes produksjon dersom bedriftseieren øker i) N med 10%, ii) K med 10%? Viser estimatene at produksjonsprosessen karakteriseres av økende, avtakende eller konstant skalautbytte?   
+
 
 ### Oppgave 4
 
