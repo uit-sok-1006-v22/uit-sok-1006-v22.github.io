@@ -90,13 +90,18 @@ Hvor mye økes produksjon dersom bedriftseieren øker i) N med 10%, ii) K med 10
 
 
 \begin{equation}
-  Y_\{it} = A\_i K^{\alpha}\_{it} (h\_{it} x L\_{it})^\beta R^\gamma\_{it} e^\epsilon\_{it}
+  Y_\{it} = A\_i K^{\alpha}\_{it} (h\_{it} x L\_{it})^\beta R^\gamma\_{it} e^{\epsilon\_{it}}
 \end{equation}
 
-hvor i er sektoren, t er tid, Y er produksjon i sektoren, K er kapitalen (og andre materialer) brukt, h er menneskelig kapital, L er mengde arbeidskraft, R er utgifter på FoU, og $\epsilon$ er et tilfeldig feiledd.   
-a) Hva måler $h x L$ i hver sektor?   
-b) Gi en tolkning av $\alpha, \beta, \gamma$. Forfatterne definerer videre $\psi=\alpha+\beta+\gamma$, og sier at $\psi=1$ angir konstantskalautbytte, $\psi<1$ avtakende skalautbytte, og $\psi>1$ økende skalautbytte. Forklar hvorfor dette er tilfellet.   
-
+hvor i er sektoren, t er tid, Y er produksjon i sektoren, K er kapitalen (og andre materialer) brukt, h er menneskelig kapital, L er mengde arbeidskraft, R er utgifter på Forskning og Utvikling (FoU), e er Eulers tall og $\epsilon$ er et tilfeldig feiledd.   
+a) Hva måler $h x L$ i hver sektor? Hvorfor inkluderes FoU i produktfunksjon?     
+b) Gi en tolkning av $\alpha, \beta, \gamma$. Forfatterne definerer videre $\psi=\alpha+\beta+\gamma$, og sier at $\psi=1$ angir konstantskalautbytte, $\psi<1$ avtakende skalautbytte, og $\psi>1$ økende skalautbytte. Forklar hvorfor dette er tilfellet.    
+c) Skriv uttrykket som måler gjennomsnittsproduktiviteten til arbeidskraft $\frac{Y_{it}}{(h_{it} x L_{it}}$.   
+d) Vis hvordan forfatterne utleder deres likning (2) på side 362 ved å ta logaritmer av begge sidene.   
+e) Ta logaritmer av begge sider av ditt svar på deloppgave (c) og vis hvordan forfatterne utleder sin likning (3).   
+f) Tallet som er fremfor variablen $ln (h_t x L_{it})$ er $(\psi-1)$. Dette er et tall som forfatterne estimerer ved bruk av statistiske metoder, og som brukes for å tyde type skalautbytte i en sektor (se over ditt svar på deloppgave b). Hva viser skalaegenskapene dersom: (i) $\psi=-0,6$, (ii) $\psi=0,6$, (iii) $\psi=1$?    
+g) Tabell II på side 366-7 gir resultatene av den statistiske modellen Her er to likninger estimert for hver sector: (1) tar med FoU utgifter mens (2) utelater denne variablen. Se på tallene i kolonne 3 som er de estimerte verdier av $\psi-1$. Tall som er merket med en til tre stjerner er vi rimelig sikker på er ikke null (desto flere stjerner jo mer sikker er vi på dette - dere vil lære om dette til høsten i kurset om statistikk). Se på linjen i Tabell II for sektoren "Production and supply of electricity, gas and water". Tallet som måler $\psi-1$ er 0.198 i modellen med FoU og 0.343 i modellen uten. Ingen av disse tallene er merket med en stjerne så de er statistisk lik null. Derav kommer konklusjonen om at denne sektoren viser konstant skalautbytte. Se på skalaegenskapene til de øvrige sektorene - er disse fornuftige konklusjoner tror du (for eksempel: resultatene viser at dersom man fordobler ressursbruk i produskjonen av "machinery and equipment" får man mer enn dobbel så mye output - hvordan forklarer du dette?).   
+h) Se over dine svar på oppgave 1a). Er produktfunksjonen brukt i denne analysen en forbedring sammenliknet med den som er i læreboka? Hvilken problemer har man "løst".   
 
 
 
