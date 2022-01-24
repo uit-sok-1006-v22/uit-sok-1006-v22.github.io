@@ -94,7 +94,7 @@ Hvor mye økes produksjon dersom bedriftseieren øker i) N med 10%, ii) K med 10
 \end{equation}
 
 hvor i er sektoren, t er tid, Y er produksjon i sektoren, K er kapitalen (og andre materialer) brukt, h er menneskelig kapital, L er mengde arbeidskraft, R er utgifter på Forskning og Utvikling (FoU), e er Eulers tall og $\epsilon$ er et tilfeldig feiledd.   
-a) Hva måler $h x L$ i hver sektor? Hvorfor inkluderes FoU i produktfunksjon?     
+a) Hva måler $h  L$ i hver sektor? Hvorfor inkluderes FoU i produktfunksjon?     
 b) Gi en tolkning av $\alpha, \beta, \gamma$. Forfatterne definerer videre $\psi=\alpha+\beta+\gamma$, og sier at $\psi=1$ angir konstantskalautbytte, $\psi<1$ avtakende skalautbytte, og $\psi>1$ økende skalautbytte. Forklar hvorfor dette er tilfellet.    
 c) Skriv uttrykket som måler gjennomsnittsproduktiviteten til arbeidskraft $\frac{Y_{it}}{(h_{it}  L_{it})}$.   
 d) Vis hvordan forfatterne utleder deres likning (2) på side 362 ved å ta logaritmer av begge sidene.   
