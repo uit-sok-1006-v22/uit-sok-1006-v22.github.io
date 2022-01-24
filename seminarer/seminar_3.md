@@ -84,7 +84,20 @@ e) Økonom X har data for faktorbruk og produksjon av Dingser, og har estimert f
 Hvor mye økes produksjon dersom bedriftseieren øker i) N med 10%, ii) K med 10%? Viser estimatene at produksjonsprosessen karakteriseres av økende, avtakende eller konstant skalautbytte?   
 
 
-### Oppgave 4
+### Oppgave 4   
+
+[Ren og Jie (2019)](/seminarer/Returns to scale China.pdf){:target="blank"} estimerer produktfunksjoner for flere sektorer i Kina basert på data fra perioden 1993-2015. På side 361 spesifiserer de følgende produktfunksjon:
+
+
+\begin{equation}
+  Y_\{it} = A\_i K^{\alpha}\_{it} (h\_{it} x L\_{it})^\beta R^\gamma\_{it} e^\epsilon\_{it}
+\end{equation}
+
+hvor i er sektoren, t er tid, Y er produksjon i sektoren, K er kapitalen (og andre materialer) brukt, h er menneskelig kapital, L er mengde arbeidskraft, R er utgifter på FoU, og $\epsilon$ er et tilfeldig feiledd.   
+a) Hva måler $h x L$ i hver sektor?   
+b) Gi en tolkning av $\alpha, \beta, \gamma$. Forfatterne definerer videre $\psi=\alpha+\beta+\gamma$, og sier at $\psi=1$ angir konstantskalautbytte, $\psi<1$ avtakende skalautbytte, og $\psi>1$ økende skalautbytte. Forklar hvorfor dette er tilfellet.   
+
+
 
 
 
