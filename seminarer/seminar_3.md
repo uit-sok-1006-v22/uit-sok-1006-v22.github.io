@@ -1,7 +1,7 @@
 {% include navbar_open.html %}
 # Sok-1006 Mikroøkonomi   
 
-## Seminar 3 - Produksjon 1: Teknologi   
+## Seminar 3 - Produksjon I: Teknologi   
 
    
 
