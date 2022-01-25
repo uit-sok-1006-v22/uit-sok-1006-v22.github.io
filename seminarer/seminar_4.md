@@ -55,19 +55,29 @@ Du behøver ikke vise at dette stemmer (men kan om du klarer!). Gitt at $w=350$ 
 
 ### Oppgave 3   
 
-
-
-
-\begin{equation}
-   y = f(N,K)=ZN^aK^{b}
-\end{equation}
-
-
+Etter å ha samlet inn data over mange år har en bedrift funnet ut at den har følgende totalkostnadsfunksjon:
 
 
 \begin{equation}
-   a = f'\_N\frac{y}{N}
+   C(w,r,x)=2(w r x)^{\frac{1}{2}}
 \end{equation}
+
+Bedriftseieren vil vite hvordan hun kan bruke denne informasjonen til å avdekke bedriftens produktfunksjon $x=f(N,K)$.    
+a) Shephards Lemma er en setning i mikroøkonomi som vi kan gjøre bruk av her. Tenk deg at bedriften bruker 10 enheter N og 5 enheter K, med faktorpriser w=1 og r=3. Da blir totalkostnaden (1)(10)+(3)(5)=25. Anta nå at prisen på arbeidskraft øker med én enhet slik at den nye kostnaden blir (2)(10)+(3)(5)=35. Kostnadsøkningen er på 10 som er mengden arbeidskraft som er brukt. Likeså om r øker med 1 øker kostnaden med 5 som er mengde kapital brukt. Dette er ikke et matematisk bevis, men vi kan da konstatere Shephards Lemma som sier
+
+
+\begin{equation}
+   L = \frac{\partial C}{\partial w}
+\end{equation}
+
+\begin{equation}
+   K = \frac{\partial C}{\partial r}
+\end{equation}
+
+Beregn (6) og (7) for kostnadsfunksjonen i (5) for å finne forholdet mellom faktorbruk, faktorpriser og produsert mengde: $L(w, r, x), K(w, r, x)$.   
+b) Fra $L(w, r, x)$ finn et uttrykk for $\frac{w}{r}$, og sett dette inn i $K(w, r, x)$.   
+c) Nå skal du ha en likning som knytter sammen x, N, og K. Løs denne likningen for x, og fortell bedriftseieren hvilken produktfunksjon hun bruker! Sjekk at du har rett ved å verifisere at ditt resultat gir samme kostnad som i (5).     
+d) Hvilke skalaegenskaper har denne produktfunksjon?   
 
 
 
