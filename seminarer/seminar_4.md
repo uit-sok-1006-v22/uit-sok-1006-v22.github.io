@@ -47,7 +47,7 @@ c) Det viser seg at kostnadsfunksjonen for en generell Cobb-Douglas produktfunks
 
 
 \begin{equation}
-   C(w,r,x,Z) = (\frac{x}{Z})^{{\frac{1}{a+b}}}w^{{\frac{a}{a+b}}}r^{{\frac{b}{a+b}}}(({\frac{a}{b}})^{{\frac{b}{a+b}}}+({\frac{b}{a}})^{{\frac{a}{a+b}}})
+   C(w,r,x,Z) = \left ( \frac{x}{Z}) \right )^{\frac{1}{a+b}}w^{\frac{a}{a+b}}r^{\frac{b}{a+b}}\left ( \left ( \frac{a}{b} \right )^{\frac{b}{a+b}}+\left ( \frac{b}{a} \right)^{\frac{a}{a+b}} \right )
 \end{equation}
 
 Du behøver ikke vise at dette stemmer (men kan om du klarer!). Gitt at $w=350$ og $r=500$, sett inn verdiene som du fant i del (b) og tegn (i) total kostnaden, (ii) gjennomsnittskostnaden, og (iii) grensekostnaden på lang sikt. Hvilke skalautbytte viser produktfunksjonen som du har estimert?   
