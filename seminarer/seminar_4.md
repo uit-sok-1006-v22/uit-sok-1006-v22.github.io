@@ -25,13 +25,32 @@ e) Beregn den totale gjennomsnittskostnaden på langt sikt og tegn dette i en fi
 
 ### Oppgave 2   
 
+En bedrift kan produsere et gode (x) ved å kombinere arbeidskraft (N) og kapital (K) som følger
 
 
 \begin{equation}
-   y = f(N,K)=N^sK^{1-s}
+   x = f(N,K)=ZN^aK^{b}
+\end{equation}
+
+hvor a, b og Z er positive tall.   
+a) Gitt faktorpriser w på arbeidskraft og r på kapital beregn det optimale forholdet mellom produksjonsfaktorene for en kostnadsminimerende bedrift. Under hvilke omstendigheter bruker bedriften mer kapital enn arbeidskraft? Forklar intuisjonen bak dette resultatet.    
+b) Vis at (1) kan skrives som 
+
+
+\begin{equation}
+  ln x = ln Z+a ln N + b ln K
 \end{equation}
 
 
+I DENNE JUPYTER NOTEBOOK får du dataobservasjoner på menge produsert, og mendge arbeidskraft og kapital brukt i prossessen. ** Eller veiledning i hvordan generere disse? ** I denne oppgaven skal du fullføre trinn i notebooken for å estimere Z, a og b for denne produktfunksjon.    
+c) Det viser seg at kostnadsfunksjonen for en generell Cobb-Douglas produktfunksjon kan skrives som 
+
+
+\begin{equation}
+   C(w,r,x,Z) = (\frac{x}{Z})^{{\frac{1}{a+b}}}w^{{\frac{a}{a+b}}}r^{{\frac{b}{a+b}}}(({\frac{a}{b}})^{{\frac{b}{a+b}}}+({\frac{b}{a}})^{{\frac{a}{a+b}}})
+\end{equation}
+
+Du behøver ikke vise at dette stemmer (men kan om du klarer!). Gitt at $w=350$ og $r=500$, sett inn verdiene som du fant i del (b) og tegn (i) total kostnaden, (ii) gjennomsnittskostnaden, og (iii) grensekostnaden på lang sikt. Hvilke skalautbytte viser produktfunksjonen som du har estimert?   
 
 
 ### Oppgave 3   
