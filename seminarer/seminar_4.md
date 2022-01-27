@@ -99,7 +99,7 @@ a) BRUK DENNE JUPYTER NOTEBOOK til å estimere følgende likning
 \end{equation}
 
 Hva viser din analyse om skalautbytte til Tesla?    
-b) Er ditt resultat forenelig med [denne analysen]() av Tesla sine kostnader?   
+b) Er ditt resultat forenelig med [denne analysen](https://cleantechnica.com/2018/07/22/peeking-behind-teslas-cost-of-materials-curtain/){:target="blank"} av Tesla sine kostnader?   
 c) Gitt denne analysen hvilke andre variabler bør inkluderes i (8), og hvordan vil den nye produktfunksjonen se ut (gitt at den er Cobb-Douglas)? 
 
 
