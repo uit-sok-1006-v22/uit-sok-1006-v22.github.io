@@ -84,6 +84,24 @@ d) Hvilke skalaegenskaper har denne produktfunksjon?
 
 ### Oppgave 4   
 
-[Ren og Jie (2019)](/seminarer/Returns to scale China.pdf){:target="blank"} e
+[Denne fila](/seminarer/tesladata.csv) inneholder årlig data fra Tesla på kapitalutgifter (USD), arbeidere, og antall biler laget i perioden 2012-2020. Anta at produktfunksjonen for Tesla er
+
+
+\begin{equation}
+   x = f(N,K)=ZN^aK^{b}
+\end{equation}
+
+a) BRUK DENNE JUPYTER NOTEBOOK til å estimere følgende likning
+
+
+\begin{equation}
+  ln (x/N) = ln Z + (a+b-1)ln N + b ln (K/N)
+\end{equation}
+
+Hva viser din analyse om skalautbytte til Tesla?    
+b) Er ditt resultat forenelig med [denne analysen]() av Tesla sine kostnader?   
+c) Gitt denne analysen hvilke andre variabler bør inkluderes i (8), og hvordan vil den nye produktfunksjonen se ut (gitt at den er Cobb-Douglas)? 
+
+
 
 
