@@ -1,4 +1,6 @@
 {% include navbar_open.html %}
+# SOK-1006 Mikroøkonomi    
+
 ## Seminarplan   
 
 Vi kommer i hovedsak til å bruke Python som verktøy for å få en nærmere forståelse av mikroøkonomi.   
