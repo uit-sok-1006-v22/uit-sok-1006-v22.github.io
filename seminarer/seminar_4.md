@@ -84,14 +84,16 @@ d) Hvilke skalaegenskaper har denne produktfunksjon?
 
 ### Oppgave 4   
 
-[Denne fila](/seminarer/tesladata.csv) inneholder årlig data fra Tesla på kapitalutgifter (USD), arbeidere, og antall biler laget i perioden 2012-2020. Anta at produktfunksjonen for Tesla er
+[Denne fila](/seminarer/tesladata.csv) inneholder årlig data fra Tesla på kapitalutgifter (USD), arbeidere, og antall biler laget i perioden 2012-2020.    
+a) Plott disse seriene i en figur med tid på den horisontale aksen.   
+b) Anta at produktfunksjonen for Tesla er
 
 
 \begin{equation}
    x = f(N,K)=ZN^aK^{b}
 \end{equation}
 
-a) BRUK DENNE JUPYTER NOTEBOOK til å estimere følgende likning
+BRUK DENNE JUPYTER NOTEBOOK til å estimere følgende likning
 
 
 \begin{equation}
@@ -99,6 +101,7 @@ a) BRUK DENNE JUPYTER NOTEBOOK til å estimere følgende likning
 \end{equation}
 
 Hva viser din analyse om skalautbytte til Tesla?    
+c) Er du fornøyd med resultatene fra analysen, eller er det noe som ikke ser helt riktig ut?    
 b) Er ditt resultat forenelig med [denne analysen](https://cleantechnica.com/2018/07/22/peeking-behind-teslas-cost-of-materials-curtain/){:target="blank"} av Tesla sine kostnader?   
 c) Gitt denne analysen hvilke andre variabler bør inkluderes i (8), og hvordan vil den nye produktfunksjonen se ut (gitt at den er Cobb-Douglas)? 
 
