@@ -42,7 +42,7 @@ b) Vis at (1) kan skrives som
 \end{equation}
 
 
-I DENNE JUPYTER NOTEBOOK får du dataobservasjoner på menge produsert, og mendge arbeidskraft og kapital brukt i prossessen. ** Eller veiledning i hvordan generere disse? ** I denne oppgaven skal du fullføre trinn i notebooken for å estimere Z, a og b for denne produktfunksjon.    
+I DENNE JUPYTER NOTEBOOK får du dataobservasjoner på menge produsert, og mendge arbeidskraft og kapital brukt i prossessen. ** Eller veiledning i hvordan generere disse? ** I denne oppgaven skal du fullføre trinn i notebooken for å estimere Z, a og b for denne produktfunksjon. Kommenter skalautbytteegenskapene til denne produktfunksjonen. Tegn noen produksjonsisokvanter, og vis hvordan skalautbytte påvirker forholdet mellom dem.          
 c) Det viser seg at kostnadsfunksjonen for en generell Cobb-Douglas produktfunksjon kan skrives som 
 
 
@@ -102,8 +102,8 @@ BRUK DENNE JUPYTER NOTEBOOK til å estimere følgende likning
 
 Hva viser din analyse om skalautbytte til Tesla?    
 c) Er du fornøyd med resultatene fra analysen, eller er det noe som ikke ser helt riktig ut?    
-b) Er ditt resultat forenelig med [denne analysen](https://cleantechnica.com/2018/07/22/peeking-behind-teslas-cost-of-materials-curtain/){:target="blank"} av Tesla sine kostnader?   
-c) Gitt denne analysen hvilke andre variabler bør inkluderes i (8), og hvordan vil den nye produktfunksjonen se ut (gitt at den er Cobb-Douglas)? 
+d) Er ditt resultat forenelig med [denne analysen](https://cleantechnica.com/2018/07/22/peeking-behind-teslas-cost-of-materials-curtain/){:target="blank"} av Tesla sine kostnader?   
+e) Gitt denne analysen hvilke andre variabler bør inkluderes i (8), og hvordan vil den nye produktfunksjonen se ut (gitt at den er Cobb-Douglas)? 
 
 
 
