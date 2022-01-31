@@ -93,7 +93,7 @@ b) Anta at produktfunksjonen for Tesla er
    x = f(N,K)=ZN^aK^{b}
 \end{equation}
 
-I <a href="https://github.com/uit-sok-1006-v22/uit-sok-1006-v22.github.io/blob/main/seminarer/seminar_4_tesla_for_studenter%20.ipynb" target="_self"> denne Jupyter Notebook</a> får du kode til å estimere følgende likning
+I <a href="https://github.com/uit-sok-1006-v22/uit-sok-1006-v22.github.io/blob/main/seminarer/seminar_4_tesla_for_studenter.ipynb" target="_self"> denne Jupyter Notebook</a> får du kode til å estimere følgende likning
 
 
 \begin{equation}
