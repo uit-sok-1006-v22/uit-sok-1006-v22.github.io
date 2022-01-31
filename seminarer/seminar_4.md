@@ -42,7 +42,7 @@ b) Vis at (1) kan skrives som
 \end{equation}
 
 
-I [denne Jupyter Notebook](seminarer/Sem_4_oppgave_2_studenter (1).ipynb) kan du generere dataobservasjoner på mengde produsert, og mendge arbeidskraft og kapital brukt i prossessen. I denne oppgaven skal du fullføre trinn i notebooken for å estimere Z, a og b for denne produktfunksjon. Kommenter skalautbytteegenskapene til denne produktfunksjonen. Tegn noen produksjonsisokvanter, og vis hvordan skalautbytte påvirker forholdet mellom dem.          
+I [denne Jupyter Notebook](Sem_4_oppgave_2_studenter (1).ipynb) kan du generere dataobservasjoner på mengde produsert, og mendge arbeidskraft og kapital brukt i prossessen. I denne oppgaven skal du fullføre trinn i notebooken for å estimere Z, a og b for denne produktfunksjon. Kommenter skalautbytteegenskapene til denne produktfunksjonen. Tegn noen produksjonsisokvanter, og vis hvordan skalautbytte påvirker forholdet mellom dem.          
 c) Det viser seg at kostnadsfunksjonen for en generell Cobb-Douglas produktfunksjon kan skrives som 
 
 
@@ -93,7 +93,7 @@ b) Anta at produktfunksjonen for Tesla er
    x = f(N,K)=ZN^aK^{b}
 \end{equation}
 
-Bruk [denne Jupyter notebook](seminarer/seminar_4_tesla_for_studenter.ipynb) til å estimere følgende likning
+Bruk [denne Jupyter notebook](seminar_4_tesla_for_studenter.ipynb) til å estimere følgende likning
 
 
 \begin{equation}
