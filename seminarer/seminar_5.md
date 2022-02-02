@@ -15,19 +15,16 @@
 \end{equation}
 
 hvor $e$ er Eulers tall.   
-a) Hva kan du si om skalsegenskapene til produksjonen i denne bedriften?   
+a) Hva kan du si om skalaegenskapene til produksjonen i denne bedriften?   
 b) Bruk likning (1) til å skrive en Cobb-Douglas produktfunksjon for Dereks Dingser.   
 c) På kort sikt har bedriften tilgang til begrenset kapital $K\_0$. Prisen per enhet kapital er fast $r$, mens én time med arbeidskraft koster $w$. Dingser selges for en fast pris på $p$ kr per enhet.
 På kort sikt kan Derek velge hvor mange timer arbiedskraft som tilsettes for å maksimere overskuddet til bedriften. 
 Skriv ut fortjenesten til bedriften, og finn ut hvor mye arbeidskraft det er som maksimerer overskuddet: $N^{\*}(p,w,r K\_0)$. 
 Daglig leder Derek er noe skeptisk til om dette er et maksimum. Kan du overbevise han?    
-d) Hvordan endres bedriftens etterspørselen etter arbeidskraft når de eksogene variablene $N^{\*}(p,w,r K\_0)$endres? Forklar intuisjonen bak dine funn.   
+d) Hvordan endres bedriftens etterspørselen etter arbeidskraft når de eksogene variablene $N^{\*}(p,w,r K\_0)$ endres? Forklar intuisjonen bak dine funn.   
 e) Finn bedriftfens kostnadsfunksjon på kort sikt, og vis Derek hvor mye dingser han bør tilby til markedet til enhver pris (dvs tegn tilbudsfunksjonen på kort sikt).   
-f) 
-b) I en ny figur tegn totale gjennomsnittskostnader på kort sikt, variabler gjennomsnittskostnader på kort sikt, og grensekostnaden på kort sikt. Kommenter og forklar forholdet mellom  total og variabel gjennomsnittskostnad og grensekostnaden.   
-c) På lang sikt kan Derek leie inn arbeidskraft og kapital slik at produksjonskostnaden blir minimert for hvert produksjonsnivå. Tegn produksjonsisokvanter i en figur som viser hvordan han kan kombinere produksjonsfaktorene for å produsere $x=10, x=30, x=50$ dingser. Vis at den optimale kombinasjonen av arbeidskraft og kapital som minimerer produksjonskostnaden for alle produsksjonsnivå (dvs substitumalen) er gitt ved $K=\frac{350}{500}N=\frac{w}{r}N$. Tegn substitumalen inn i figuren. Hvorfor er den optimale kombinasjonen kun avhengig av den relative prisen på produksjonsfaktorene, og ikke parametre fra produktfunksjonen (dvs produksjonselastisitetene)? Tegn inn isokostnadskurver og vis dermed at skjæringspunktet mellom isokvanten og substitumalen er det kostnadsminimerende valget.   
-d) Gitt svaret ditt fra c) beregn den totale produksjonskostnaden på lang sikt (dvs summen av faktorkostnadene og den faste kostnaden). Kommenter resultatet.   
-e) Beregn den totale gjennomsnittskostnaden på langt sikt og tegn dette i en figur med produsert mengde (x) på den horisontale aksen. Tegn også inn den totale gjennomsnittskostnad på kort sikt for kapitalmenger $K=10, K=25, K=50$ Forklar forholdet mellom gjennomsnittskostnaden på kort og lang sikt.   
+f) På en strategisamling kommer et innspill om at bedriften burde planlegge for fremtiden, og ikke bare se på kortsiktige løsninger. Styret gir deg oppdraget: "På lang sikt bør bedriften Dereks Dingser ansette arbeidskraft og kapital i optimale mengder for å maksimere bedriftens overskudd. Identifisér optimale mengder av disse produksjonsfaktorer på lang sikt?"    
+g) Styret går videre i sitt oppdrag, og vil ha deg til å beregne bedriftens tilbudsfunksjon på lang sikt. De ber deg i tillegg utføre ulike scenarioanalyser: Hva skjer med tilbudskurevn for dingser dersom: (i) $p$ faller med 25%, (ii) $w$ øker med 10%, (iii) $r$ øker med 10%. Forklar intuisjonen bak dine funn for de styremedlemmene som ikke har en økonomifaglig bakgrunn.   
 
 
 
