@@ -31,17 +31,7 @@ g) Styret går videre i sitt oppdrag, og vil ha deg til å beregne bedriftens ti
 
 ### Oppgave 2   
 
-En bedrift kan produsere et gode (x) ved å kombinere arbeidskraft (N) og kapital (K) som følger
-
-
-\begin{equation}
-   x = f(N,K)=ZN^aK^{b}
-\end{equation}
-
-hvor a, b og Z er positive tall.   
-a) Gitt faktorpriser w på arbeidskraft og r på kapital beregn det optimale forholdet mellom produksjonsfaktorene for en kostnadsminimerende bedrift. Under hvilke omstendigheter bruker bedriften mer kapital enn arbeidskraft? Forklar intuisjonen bak dette resultatet.    
-b) Vis at (1) kan skrives som 
-
+[Dette datasettet](https://github.com/uit-sok-1006-v22/uit-sok-1006-v22.github.io/blob/main/seminarer/new_data_sem_5.csv) inneholder tall på produksjon, kapitalbruk og anvendelse av arbeidskraft. De er allerede gjort om til logaritmer (variablene 'lnx', 'lnK', 'lnN'). Bruk koden fra seminar 4 til å estimere følgende produktfunksjon:
 
 \begin{equation}
   ln x = ln Z+a ln N + b ln K
