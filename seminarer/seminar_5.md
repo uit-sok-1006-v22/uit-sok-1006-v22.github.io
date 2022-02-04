@@ -31,75 +31,33 @@ g) Styret går videre i sitt oppdrag, og vil ha deg til å beregne bedriftens ti
 
 ### Oppgave 2   
 
-[Dette datasettet](https://github.com/uit-sok-1006-v22/uit-sok-1006-v22.github.io/blob/main/seminarer/new_data_sem_5.csv) inneholder tall på produksjon, kapitalbruk og anvendelse av arbeidskraft. De er allerede gjort om til logaritmer (variablene 'lnx', 'lnK', 'lnN'). Bruk koden fra seminar 4 til å estimere følgende produktfunksjon:
+Daglig leder Derek jobber i en bedrift som lager dingser. Etter mange år har han samlet inn [dette datasettet](https://github.com/uit-sok-1006-v22/uit-sok-1006-v22.github.io/blob/main/seminarer/data_sem_5.csv) som inneholder tall på produksjon, kapitalbruk og anvendelse av arbeidskraft i en bedrift. De er allerede gjort om til logaritmer (variablene 'lnx', 'lnK', 'lnN'), men Derek kommer ikke videre i sin analyse av bedriftens optimale produksjon på kort og lang sikt. Han hyrer deg inn som konsulent, og ber deg estimere følgende produktfunksjon:
 
 \begin{equation}
   ln x = ln Z+a ln N + b ln K
 \end{equation}
 
-
-I  <a href="https://github.com/uit-sok-1006-v22/uit-sok-1006-v22.github.io/blob/main/seminarer/Sem_4_oppgave_2_studenter%20(1).ipynb" target="_self"> denne Jupyter Notebook</a> kan du generere dataobservasjoner på mengde produsert, og mendge arbeidskraft og kapital brukt i prossessen. I denne oppgaven skal du fullføre trinn i notebooken for å estimere Z, a og b for denne produktfunksjon. Kommenter skalautbytteegenskapene til denne produktfunksjonen. Tegn noen produksjonsisokvanter, og vis hvordan skalautbytte påvirker forholdet mellom dem.          
-c) Det viser seg at kostnadsfunksjonen for en generell Cobb-Douglas produktfunksjon kan skrives som 
-
-
-\begin{equation}
-   C(w,r,x,Z) = \left ( \frac{x}{Z}) \right )^{\frac{1}{a+b}}w^{\frac{a}{a+b}}r^{\frac{b}{a+b}}\left ( \left ( \frac{a}{b} \right )^{\frac{b}{a+b}}+\left ( \frac{b}{a} \right)^{\frac{a}{a+b}} \right )
-\end{equation}
-
-Du behøver ikke vise at dette stemmer (men kan om du klarer!). Gitt at $w=350$ og $r=500$, sett inn verdiene som du fant i del (b) og tegn (i) total kostnaden, (ii) gjennomsnittskostnaden, og (iii) grensekostnaden på lang sikt. Hvilke skalautbytte viser produktfunksjonen som du har estimert?   
+(noe av koden fra seminar 4 kan være nyttig her).  
+Bruk dine estimatene på $a$ og $b$ og $lnZ$ i den følgende analysen (bruk 1 desimalplass).   
+a) Hvordan ser bedriftens Cobb-Douglas produktfunksjon ut? Hvilke skalaegenskaper har den?   
+b) Bedriftens mål er å maksimere overskudd. Sett opp bedriftens maksimeringsproblem. På kort sikt kan ikke bedriften endre bruken av kapital, slik at kapitalmengden er fast: $K=K\_0$. Gitt lønn $w$ og kapitalpris $r$ må Derek informere bedriftens styre hvor mye arbeidskraft som bør ansettes på kort sikt? Styremedlemmene i bedriften vil helst ha en figur, og ikke et matematisk uttrykk som viser forholdet mellom lønn og optimal arbeidsinnsats; tegn en figur med $N$ på den vertikale aksen og $w$ på den horisontale.    
+c) Derek oppsøker styrerommet, fornøyd med løsningen som "han" har funnet. Styreleder C. Kent ser på figuren, og stiller et noe ekkelt spørsmål: "Er du fornøyd med hvordan denne etterspørselsfunksjon ser ut, Derek?". Slukøret må Derek innrømme at han ikke er helt fornøyd (men han vet ikke hvorfor). Hva kan ha gått galt her? For å undersøke dette kan du (i) prøve å tegne profittfunksjonen (sett for eksempel $p=10, w=1, K\_0=1$) , og (ii) sjekke om den 2. ordens betingelsen for et maksimum er oppfylt. Etter det må du forklare for Derek hva som er problemet, så enkelt som mulig og uten faguttrykk.   
+d) Styret har vedtatt en produksjonsplan for de neste 6 måneder, og ber Derek lage en strategi for å oppfylle denne. Gitt det han har opplevd til nå skjønner han ikke hvordan han skal klare dette, og søker råd hos deg. Forlar for daglig leder at det er mulig å lage en optimal strategi på tross av det tidligere svaret.   
+e) Daglig leder Derek tenker at han vil klare å maksimere bedriftens overskudd i det lange løp, bare han også får tllpasset kapitalnivået. "Det går ikke med denne produktfunksjon, dessverre" må du fortelle han. Hvorfor ikke?    
 
 
 ### Oppgave 3   
 
-Etter å ha samlet inn data over mange år har en bedrift funnet ut at den har følgende totalkostnadsfunksjon:
 
 
-\begin{equation}
-   C(w,r,x)=2(w r x)^{\frac{1}{2}}
-\end{equation}
 
-Bedriftseieren vil vite hvordan hun kan bruke denne informasjonen til å avdekke bedriftens produktfunksjon $x=f(N,K)$.    
-a) Shephards Lemma er en setning i mikroøkonomi som vi kan gjøre bruk av her. Tenk deg at bedriften bruker 10 enheter N og 5 enheter K, med faktorpriser w=1 og r=3. Da blir totalkostnaden (1)(10)+(3)(5)=25. Anta nå at prisen på arbeidskraft øker med én enhet slik at den nye kostnaden blir (2)(10)+(3)(5)=35. Kostnadsøkningen er på 10 som er mengden arbeidskraft som er brukt. Likeså om r øker med 1 øker kostnaden med 5 som er mengde kapital brukt. Dette er ikke et matematisk bevis, men vi kan da konstatere Shephards Lemma som sier
-
-
-\begin{equation}
-   L = \frac{\partial C}{\partial w}
-\end{equation}
-
-\begin{equation}
-   K = \frac{\partial C}{\partial r}
-\end{equation}
-
-Beregn (6) og (7) for kostnadsfunksjonen i (5) for å finne forholdet mellom faktorbruk, faktorpriser og produsert mengde: $L(w, r, x), K(w, r, x)$.   
-b) Fra $L(w, r, x)$ finn et uttrykk for $\frac{w}{r}$, og sett dette inn i $K(w, r, x)$.   
-c) Nå skal du ha en likning som knytter sammen x, N, og K. Løs denne likningen for x, og fortell bedriftseieren hvilken produktfunksjon hun bruker! Sjekk at du har rett ved å verifisere at ditt resultat gir samme kostnad som i (5).     
-d) Hvilke skalaegenskaper har denne produktfunksjon?   
 
 
 
 
 ### Oppgave 4   
 
-[Denne fila](/seminarer/tesladata.csv) inneholder årlig data fra Tesla på kapitalutgifter (USD), arbeidere, og antall biler laget i perioden 2012-2020.    
-a) Plott disse seriene i en figur med tid på den horisontale aksen.   
-b) Anta at produktfunksjonen for Tesla er
 
-
-\begin{equation}
-   x = f(N,K)=ZN^aK^{b}
-\end{equation}
-
-I <a href="https://github.com/uit-sok-1006-v22/uit-sok-1006-v22.github.io/blob/main/seminarer/seminar_4_tesla_for_studenter.ipynb" target="_self"> denne Jupyter Notebook</a> får du kode til å estimere følgende likning
-
-
-\begin{equation}
-  ln (x/N) = ln Z + (a+b-1)ln N + b ln (K/N)
-\end{equation}
-
-Hva viser din analyse om skalautbytte til Tesla?    
-c) Er du fornøyd med resultatene fra analysen, eller er det noe som ikke ser helt riktig ut?    
-d) Er ditt resultat forenelig med [denne analysen](https://cleantechnica.com/2018/07/22/peeking-behind-teslas-cost-of-materials-curtain/){:target="blank"} av Tesla sine kostnader?   
-e) Gitt denne analysen hvilke andre variabler bør inkluderes i (8), og hvordan vil den nye produktfunksjonen se ut (gitt at den er Cobb-Douglas)? 
 
 
 
