@@ -47,23 +47,20 @@ e) Daglig leder Derek tenker at han vil klare å maksimere bedriftens overskudd 
 
 
 ### Oppgave 3   
-[Arbeidsgiveravgift](https://www.regjeringen.no/no/tema/kommuner-og-regioner/regional--og-distriktspolitikk/differensiert-arbeidsgiveravgift/id2353986/) må betales av bedrifter ti staten basert på lønnsutgifter. Dette er bedriftens bidrag til finansieringen av folketrygden, og satsen som må betales er avhengig av hvor bedriften er lokalisert (differensiert arbeidsgiveravgift). En bedrift som er lokalisert i Tromsø selger et produkt for 1000 kr per enhet, og har følgende produktfunksjon:
+[Arbeidsgiveravgift](https://www.regjeringen.no/no/tema/kommuner-og-regioner/regional--og-distriktspolitikk/differensiert-arbeidsgiveravgift/id2353986/) må betales av bedrifter til staten basert på lønnsutgifter. Dette er bedriftens bidrag til finansieringen av folketrygden, og satsen som må betales er avhengig av hvor bedriften er lokalisert (differensiert arbeidsgiveravgift). En bedrift som er lokalisert i Tromsø selger et produkt for 1000 kr per enhet, og har følgende produktfunksjon:
 
 \begin{equation}
    x = N^a K^b
 \end{equation}
 
-med en total kostnad på arbeidskraft (dvs inkludert arbeidsgiveravgiften) på 380 kr per time, og en kapitalkostnad på 500 kr per enhet. Anta at $a=0,5, b=0,25$.   
+med en total kostnad på arbeidskraft (dvs inkludert arbeidsgiveravgiften) på 380 kr per time, og en kapitalkostnad på 500 kr per enhet. Anta at $a=0,5, b=0,25$. Bedriften har faste driftsavhengige kostnader på $F$ kr.
 a) Hva er bedriftens profittmaksimerende etterspørsel etter arbeidskraft og kapital på lang sikt mens den er lokalisert i Tromsø?    
 b) Arbeidsgiveravgiften i Tromsø kommune er på 7,9% i 2022. Bedriften vurderer å flytte produksjon til Alta hvor arbeidsgiveravgiften er 0. Hvordan vil dette endre etterspørselen etter arbeidskraft på lang sikt? Endres etterspørselen etter kapitalen selv om dens pris per enhet er fast? Forklar intuisjonen her.   
-c) Hvor mye kan bedriften tjene på å flytte fra Tromsø til Alta? (Se bort fra evt. flyttekostnader).   
+c) Hvor mye kan bedriften tjene på å flytte fra Tromsø til Alta? (Se bort fra evt. flyttekostnader, og anta samme fastkostnad i Tromsø som i Alta).    
+d) Produktet som bedriften lager omsettes på verdensmarkedet, og man har observert store svingninger i pris den senere tiden. Bedriftens styre vil vite hvor mye som bør produseres til enhver pris på lang sikt når markedet har roet seg. Gjennomfør en analyse av dette for lokaliseringen i Tromsø og Alta, og foklar dine resultater. I beregningen kan du anta $F=200$ i begge kommunene.   
 
 
-
-
-
-
-### Oppgave 4   
+ 
 
 
 
