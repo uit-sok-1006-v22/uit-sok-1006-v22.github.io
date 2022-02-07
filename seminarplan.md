@@ -13,7 +13,7 @@ Se gjerne over forelesningene fra Sok-1003 før seminarrekken begynner (spesielt
 | 11|S2    | Tilbud og etterspørsel II - økonomisk politikk         |       | Kap 3 [Oppgaver](seminarer/seminar_2.md){:target="blank"}  |
 | 12|S3    | Produksjon I - teknologi        |       |Kap 4 [Oppgaver](seminarer/seminar_3.md){:target="blank"}  |
 | 13|S4    | Produksjon II - kostnader og kostnadsminimering     |  |Kap 5 [Oppgaver](seminarer/seminar_4.md){:target="blank"}   |
-| 14| S5| Produksjon III - bedriftens produkttilbud og faktoretterspørsel |      |Kap 6  |
+| 14| S5| Produksjon III - bedriftens produkttilbud og faktoretterspørsel |      |Kap 6 [Oppgaver](seminarer/seminar_5.md){:target="blank"} |
 | 16|  S6| Gjennomgang av prosjektoppgaven |    |    |
 | 17| S7  | Konsumentteori I - nyttemaksimering og etterspørsel   |  |Kap 7/8  |
 | 18| S8  | Konsumentteori II - endring i etterspørsel    |  |Kap 8    |
