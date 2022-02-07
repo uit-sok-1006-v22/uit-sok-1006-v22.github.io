@@ -53,7 +53,7 @@ e) Daglig leder Derek tenker at han vil klare å maksimere bedriftens overskudd 
    x = N^a K^b
 \end{equation}
 
-med en total kostnad på arbeidskraft (dvs inkludert arbeidsgiveravgiften) på 380 kr per time, og en kapitalkostnad på 500 kr per enhet. Anta at $a=0,5, b=0,25$. Bedriften har faste driftsavhengige kostnader på $F$ kr.
+med en total kostnad på arbeidskraft (dvs inkludert arbeidsgiveravgiften) på 380 kr per time, og en kapitalkostnad på 500 kr per enhet. Anta at $a=0,5, b=0,25$. Bedriften har faste driftsavhengige kostnader på $F$ kr.    
 a) Hva er bedriftens profittmaksimerende etterspørsel etter arbeidskraft og kapital på lang sikt mens den er lokalisert i Tromsø?    
 b) Arbeidsgiveravgiften i Tromsø kommune er på 7,9% i 2022. Bedriften vurderer å flytte produksjon til Alta hvor arbeidsgiveravgiften er 0. Hvordan vil dette endre etterspørselen etter arbeidskraft på lang sikt? Endres etterspørselen etter kapitalen selv om dens pris per enhet er fast? Forklar intuisjonen her.   
 c) Hvor mye kan bedriften tjene på å flytte fra Tromsø til Alta? (Se bort fra evt. flyttekostnader, og anta samme fastkostnad i Tromsø som i Alta).    
