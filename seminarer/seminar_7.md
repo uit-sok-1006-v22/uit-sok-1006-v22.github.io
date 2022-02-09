@@ -39,7 +39,7 @@ Tenk at en husholdning har preferanser over tre goder ($x\_1, x\_2, x\_3$) gitt 
 hvor $\beta\_1+\beta\_2+\beta\_3=1$, og $\gamma\_1>0, \gamma\_2>0, \gamma\_3>0$.    
 a) Hva kan tolkningen av $\gamma\_1, \gamma\_2, \gamma\_3$ være?   
 b) Priser på de tre godene er gitt ved $p\_1, p\_2, p\_3$, og husholdningen har inntekt $m$. Hvor mye av hver gode ettersørres av husholdningen? Gi en intuitiv forklaring av formen på denne etterspørselen.   
-c) Statistisk sentralbyrå har utviklet to makroøkonomiske modeller (KVARTS og MODAG) som brukes som analyseredskap av blant annet Finansdepartementet. Les de gule avsnittene i [dette dokumentet](konsum modag 2013 merket.pdf) som forklarer hvordan husholdningens tilpasning modelleres i disse modellene. Bruk din analyse ovenfor til å forklare Trinn 1 i denne prosessen.   
+c) Statistisk sentralbyrå har utviklet to makroøkonomiske modeller (KVARTS og MODAG) som brukes som analyseredskap av blant annet Finansdepartementet. Les de gule avsnittene i [dette dokumentet](seminarer/konsum modag 2013 merket.pdf){:target="blank"} som forklarer hvordan husholdningens tilpasning modelleres i disse modellene. Bruk din analyse ovenfor til å forklare Trinn 1 i denne prosessen.   
 
 
 
