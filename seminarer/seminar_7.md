@@ -30,15 +30,15 @@ Brødrene tror at de har endelig funnet en forskjell seg imellom! Vis at de tar 
 
 ### Oppgave 2   
 
-Tenk at en husholdning har preferanser over tre goder ($x\_1, x\_2, x\_3$) gitt ved en nyttefunksjon av Stone-Geary type:
+Tenk at en husholdning har preferanser over to goder ($x\_1, x\_2$) gitt ved en nyttefunksjon av Stone-Geary type:
 
 \begin{equation}
-   U(x\_1, x\_2, x\_3) = \beta\_1 ln (x\_1-\gamma\_1) + \beta\_2 ln (x\_2-\gamma\_2) + \beta\_3 ln (x\_3-\gamma\_3)
+   U(x\_1, x\_2) = \beta\_1 ln (x\_1-\gamma\_1) + \beta\_2 ln (x\_2-\gamma\_2) 
 \end{equation}
 
-hvor $\beta\_1+\beta\_2+\beta\_3=1$, og $\gamma\_1>0, \gamma\_2>0, \gamma\_3>0$.    
-a) Hva kan tolkningen av $\gamma\_1, \gamma\_2, \gamma\_3$ være?   
-b) Priser på de tre godene er gitt ved $p\_1, p\_2, p\_3$, og husholdningen har inntekt $m$. Hvor mye av hver gode ettersørres av husholdningen? Gi en intuitiv forklaring av formen på denne etterspørselen.   
+hvor $\beta\_1+\beta\_2=1$, og $\gamma\_1>0, \gamma\_2>0$.    
+a) Hva kan tolkningen av $\gamma\_1, \gamma\_2$ være?   
+b) Priser på de to godene er gitt ved $p\_1, p\_2$, og husholdningen har inntekt $m$. Hvor mye av hvert gode ettersørres av husholdningen? Gi en intuitiv forklaring av formen på denne etterspørselen.   
 c) Statistisk sentralbyrå har utviklet to makroøkonomiske modeller (KVARTS og MODAG) som brukes som analyseredskap av blant annet Finansdepartementet. Les de gule avsnittene i [dette dokumentet](/seminarer/konsum modag 2013 merket.pdf){:target="_blank"} som forklarer hvordan husholdningens tilpasning modelleres i disse modellene. Bruk din analyse ovenfor til å forklare Trinn 1 i denne prosessen.   
 
 
