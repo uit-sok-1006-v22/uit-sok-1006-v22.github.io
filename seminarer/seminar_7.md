@@ -51,7 +51,7 @@ Studenten Sylvi har preferanser over gode $x$ og et sammensatt gode som represen
     U(x, y)= x^{a}y^{1-a}
 \end{equation}
 
-Prisen på $x$ er 4p$, og prisen på $y$ er 1. Sylvi har $m$ kr i inntekt.       
+Prisen på $x$ er $p$, og prisen på $y$ er 1. Sylvi har $m$ kr i inntekt.       
 a) Hvor mye av gode $x$ og gode $y$ etterspør Sylvi?   
 b) Myndighetene legger en skatt på kjøp av gode $x$, og selgere av denne varen klarer å velte hele prisøkningen over på kjøperne slik at den nye prisen som Sylvi må betale er $p(1+t)$. Her er $t$ skattesatsen: er skatten på 10% er $t=0,1$ for eksempel. Hvordan påvirker dette Sylvi sin tilpasning? Vis tilpasningen før og etter skatten i en figur med $y$ på den vertikale og $x$ på den horisontale aksen.    
 c) Bruk figuren til å dekomponere effekten på etterspørsel etter $x$ i en inntektseffekt og en substitusjonseffekt.   
@@ -61,7 +61,15 @@ Steg 2. Beregn hvor mye nytte Sylvi får fra tilpasningen etter at skatten er in
 Steg 3. Med $t=0$ (dvs med prisen før skatten ble innført), hvor mye inntekt må Sylvi ha for å oppnå samme nytte som du fant i steg 2? ($0,953$).   
 Steg 4. Med prisen $p$ og inntekten fra steg 3, hvor mye av gode $x$ etterspør Sylvi? ($2,384$). Pass på at du vet hvilket punkt dette tilsvarer i din figur.   
 Steg 5. Inntektseffekten er forskjellen mellom etterspørsel etter $x$ fra del (a) og steg 4. ($0,116$).   
-Steg 6. Substitusjonseffekten er forskjellen mellom etterspørsel etter $x$ fra steg 4 og del (b). ($0,111$).
+Steg 6. Substitusjonseffekten er forskjellen mellom etterspørsel etter $x$ fra steg 4 og del (b). ($0,111$).   
+e) Hvor mye skatteproveny samles inn fra Sylvi gjennom skatten på gode $x$?   
+f) Myndighetene vurderer å erstatte skatten på gode $x$ med en inntektsskatt på $T$. Sylvi sin inntekt etter en slik skatt er $m(1-T)$; betaler hun 15% inntektsskatt vil $T=0,15$ for eksempel. Forutsetningen er at skatten som Sylvi betaler må være det samme uansett om det er inntekt eller gode $x$ som skattelegges. Bruk ditt svar fra (e) til å beregne inntektsskattesatsen som gir like mye skatteproveny som med en skatt på gode $x$.    
+g) Med pris $p$ og inntektsskatten fra del (f) forklar hvorfor Sylvi fortsatt har råd til å kjøpe godekombinasjonen som du fant i del (b) (med en skatt på gode $x$).   
+h) Sylvi tenker at hun kommer til å få det verre med en skatt på inntekt heller en en skatt på et enkelt gode. Ta frem figuren som du tegnet i del (b), og tegn budsjettlinjen med inntektsskatten som du fant i del (f) (og husk det du fant ut i del (g)). Bruk denne fuguren til å vise Sylvi at hun tar feil.    
+
+### Oppgave 4    
+
+
 
 
 
