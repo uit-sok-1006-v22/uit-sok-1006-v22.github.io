@@ -71,7 +71,7 @@ i) "Dette skjønner jeg lite av" sier Sylvi. "En skatt på inntekt er det samme 
 ### Oppgave 4    
 
 Strømpriser har vært høye, spesielt i Sør. Regjeringen har brukt ulike subsidier til å hjelpe husholdninger til å klare å betale strømregningen. I desember 2021 innførte regjeringen en subsidie på innkjøp av strøm for noen husholdninger. [Subsidiesatsen](https://www.regjeringen.no/no/aktuelt/regjeringen-oppjusterer-sikringsordningen-og-gir-folk-mer-stromstotte/id2894979/) ble oppjustert i januar 2022. Før dette lanserte regjeringen en generell inntektsstøtte for utvalgte husholdninger i [Prop 8s (2021-2022)](/seminarer/Prop8s.pdf).         
-Tenk på en representativ husholdning med inntekt $m$. Med strømpris $p$ vil en subsidie på kjøp av strøm på $s$ føre til at husholdningen betaler $p(1-s)$ per Kilowatt/time. En generell inntektsstøtte på $S$ kr vil gi husholdningen en samlet inntekt på $m+S$ kr. Gitt at husholdningen mottar samme beløp i støte, undersøk hvilket av disse tiltakene det er som foretrekkes av husholdningen. Forklar intuisjonen bak resultatet. 
+Tenk på en representativ husholdning med inntekt $m$. Med strømpris $p$ vil en subsidie på kjøp av strøm på $s$ føre til at husholdningen betaler $p(1-s)$ per Kilowatt/time. En generell inntektsstøtte på $S$ kr vil gi husholdningen en samlet inntekt på $m+S$ kr. Gitt at husholdningen mottar samme beløp i støtte, undersøk hvilket av disse tiltakene det er som foretrekkes av husholdningen. Forklar intuisjonen bak resultatet. 
 
 
 
