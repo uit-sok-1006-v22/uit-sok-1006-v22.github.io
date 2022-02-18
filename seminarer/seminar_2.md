@@ -11,7 +11,7 @@ Gjør oppgavene fra [Core Project 7](https://www.core-econ.org/doing-economics/b
 
 R-koden et gitt i gjennomgangen av oppgaven. Løs oppgavene ved hjelp av Python. (Dette vil hjelpe dere til å løse Mappeoppgave 1).  
 
-I  <a href="https://github.com/uit-sok-1006-v22/uit-sok-1006-v22.github.io/blob/main/seminarer/Sem_2_oppgave_2_studenter%20(1).ipynb" target="_self"> denne Jupyter Notebook</a> kan du laste ned dataene som brukes i denne oppgaven.    
+I  <a href="https://github.com/uit-sok-1006-v22/uit-sok-1006-v22.github.io/blob/main/seminarer/Sem_2_oppgave_1_studenter%20(1).ipynb" target="_self"> denne Jupyter Notebook</a> kan du laste ned dataene som brukes i denne oppgaven.    
 
 ### Oppgave 2   
 
