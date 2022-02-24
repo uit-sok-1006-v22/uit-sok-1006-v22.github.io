@@ -62,7 +62,7 @@ hvor $x$ er enheter ferdigprodukt, $N$ er enheter arbeidskraft (målt i timer), 
 a) Vis at $a$ er produksjonens elastistitet med hensyn på arbeidskraft, dvs   
 
 \begin{equation}
-   a = f'\_N\frac{x}{N}
+   a = f'\_N\frac{N}{x}
 \end{equation}
 
 Tolk denne parameteren.   
