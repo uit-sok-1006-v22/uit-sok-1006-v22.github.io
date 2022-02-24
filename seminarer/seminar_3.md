@@ -68,7 +68,7 @@ a) Vis at $a$ er produksjonens elastistitet med hensyn på arbeidskraft, dvs
 Tolk denne parameteren.   
 b) Vis at $b$ er produksjonens elastistitet med hensyn på kapital.   
 c) Vis hvordan skalaegenskapene til (3) avhenger av $a+b$.   
-d) Transform (3) ved å ta logaritmer av begge sidene, og vis at teknologien kan skrives som   
+d) Skriv om (3) ved å ta logaritmer av begge sidene, og vis at teknologien kan skrives som   
 
 \begin{equation}
    ln x= ln Z + a ln N + b ln K
