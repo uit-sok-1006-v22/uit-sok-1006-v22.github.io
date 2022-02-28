@@ -79,7 +79,7 @@ En god besvarelse gir kortfattede og presise definisjoner av grunnbegrep som du 
 
 ### Case 2 - oppgave     
 
-Les avsnittet merket med gult i ovennenvnte NOU (s. 86). Bruk mikroøkonomisk analyse og forklar for utvalget hvorvidt du er enig eller uenig i påstanden her.     
+I ovennenvnte NOU på side 86 finner vi følgende: *"I et marked med fullkommen konkurranse, vil avgifter (både spesifikke- og prosentvise avgifter) bli fullt overveltet i forbrukerprisen. Det er med andre ord en-til-en-overføring av avgiften."*  Bruk mikroøkonomisk analyse og forklar for utvalget hvorvidt du er enig eller uenig i påstanden her.     
 
 
 Lykke til!
