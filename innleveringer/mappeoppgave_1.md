@@ -1,4 +1,27 @@
-# Mappeoppgave 1  -   Sok-1006
+# Sok-1006 Mikroøkonomi
+
+## Mappeoppgave 1    
+
+Denne mappeoppgaven består av to case som er like viktig. Det er lov å samarbeide i grupper på inntil 3 studenter. Tilbakemelding underveis: de som ønsker tilbakemelding kan levere et utkast i Canvas innen 25. mars kl 16.00. Tilbakemelding gis i løpet av uke 13.  
+
+## Case 1    
+
+**A. Bakgrunn**
+Du skal anvende det du har lært om markedsanalyse til å forstå et forksningsarbeid om kyllingmarkedet i USA. For å få en dyp forståelse av hva forskerne har gjort prøver man ofte å replisere arbeidet dersom man har tilgang til det samme datasettet som analysen er bygget på. Dette er tilfellet her. Du skal blant annet klare i løpet av oppgaven å tegne Figur 1 og Figur 2 fra artikkelen.    
+
+**B. Instruksjoner**  
+Innleveringen skal bestå av en Jupyter notebook med kode, figurer og forklaringer (skriv forklaringene i Markdown).   
+
+**C. Bedømmelse**
+Formålet med denne oppgaven er å bli kjent med hvordan enkle begrep fra mikroøkonomi kan operasjonaliseres i en analyse. Du får trening i å      
+
+a) anvende mikroøkonomiske begrep og bruke disse til å tolke resultater     
+b) kode for å replisere noen av resultatene fra analysen   
+c) kjøre og forklare en enkel scenarioanalyse.   
+
+En god besvarelse gir kortfattede og presise definisjoner av grunnbegrepene, og klarer å anvende disse begrepene i analysen. Videre vil en god besvarelse inneholde presise forklaringer av figurene som du lager.    
+
+### Case 1 - oppgave og ressurser
 
 
 1. Epple og MacCallum (2006) har estimert tilbud og etterspørsel i markedet for kylling. Les [avsnittene som er merket med gult](https://uit-sok-1006-v22.github.io/innleveringer/chicken_economicinquiry merket.pdf){:target="blank"}, og forklar likning (1) og (2) s. 375.
@@ -35,5 +58,28 @@
     
 6. Plott figurer for 1960 og 1995, forklar figuren, og gi grunner til denne utviklingen (s380 i artikkelen).   
 
-7. Lag ytterligere tre plott i samme figur, der du legger til 0.5 til henholdsvis kvantum, inntekt og storfekjøtt. 
+7. Scenarioanalyse. Lag ytterligere tre plott i samme figur, der du legger til 0.5 til henholdsvis kvantum, inntekt og storfekjøtt. Beskriv ulike hendelser (scenarioer) som kan legges til grunn for hver av disse endringene, og forklar hvordan likevekten påvirkes i hvert tilfelle.
+
+## Case 2    
+
+**A. Bakgrunn**
+[Norges offentlige utredninger 2019:8 "Særavgiftene på sjokolade- og sukkervarer og alkoholfrie drikkevarer"](/innleveringer/nou2019_8_særavgift sukker.pdf) utreder hvorvidt man skulle fortsette med det som var kalt "sukkerskatten" på folkemunne. Du er ansatt som økonomisk rådgiver for å sjekke at innholdet i rapporten er faglig forsvarlig. I denne oppgaven skal du vurdere en påstand, og forklare dine funn for utvalget. Du må huske at ikke alle i utvalget er fagøkonomer.   
+
+**B. Instruksjoner**  
+Innleveringen skal bestå av en pdf fil (ca 1000 ord).   
+
+**C. Bedømmelse**
+Formålet med denne oppgaven er å       
+
+a) anvende mikroøkonomiske analyse til å vurdere hvorvidt en påstand stemmer     
+b) forklare denne analysen for folk som ikke nødvendigvis er økonomer   
+   
+
+En god besvarelse gir kortfattede og presise definisjoner av grunnbegrep som du bruker i analysen. Videre vil en god besvarelse ha en rød tråd gjennom analysen. Illustrerende bruk av figurer belønnes. Figurene bør være klar og godt forklart.    
+
+### Case 2 - oppgave 
+
+Les avsnittet merket med gult i ovennenvnte NOU (s. 86). Bruk mikroøkonomisk analyse og forklar for utvalget hvorvidt du er enig eller uenig i påstanden her.    
+
+
 
