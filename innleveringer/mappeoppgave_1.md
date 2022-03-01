@@ -7,7 +7,7 @@ Denne mappeoppgaven består av to case som er like viktig. Det er lov å samarbe
 ## Case 1    
 
 **A. Bakgrunn**       
-Du skal anvende det du har lært om markedsanalyse til å forstå et forksningsarbeid om kyllingmarkedet i USA. For å få en dyp forståelse av hva forskerne har gjort prøver man ofte å replisere arbeidet dersom man har tilgang til det samme datasettet som analysen er bygget på. Dette er tilfellet her. Du skal blant annet klare i løpet av oppgaven å tegne Figur 1 og Figur 2 fra artikkelen.    
+Du skal anvende det du har lært om markedsanalyse til å forstå et forskningsarbeid om kyllingmarkedet i USA. For å få en dyp forståelse av hva forskerne har gjort prøver man ofte å replisere arbeidet dersom man har tilgang til det samme datasettet som analysen er bygget på. Dette er tilfellet her. Du skal blant annet klare i løpet av oppgaven å tegne Figur 1 og Figur 2 fra artikkelen.    
 
 **B. Instruksjoner**       
 Innleveringen skal bestå av en Jupyter notebook med kode, figurer og forklaringer (skriv forklaringene i Markdown).   
