@@ -67,15 +67,15 @@ a) Shephards Lemma er en setning i mikroøkonomi som vi kan gjøre bruk av her. 
 
 
 \begin{equation}
-   L = \frac{\partial C}{\partial w}
+   N = \frac{\partial C}{\partial w}
 \end{equation}
 
 \begin{equation}
    K = \frac{\partial C}{\partial r}
 \end{equation}
 
-Beregn (6) og (7) for kostnadsfunksjonen i (5) for å finne forholdet mellom faktorbruk, faktorpriser og produsert mengde: $L(w, r, x), K(w, r, x)$.   
-b) Fra $L(w, r, x)$ finn et uttrykk for $\frac{w}{r}$, og sett dette inn i $K(w, r, x)$.   
+Beregn (6) og (7) for kostnadsfunksjonen i (5) for å finne forholdet mellom faktorbruk, faktorpriser og produsert mengde: $N(w, r, x), K(w, r, x)$.   
+b) Fra $N(w, r, x)$ finn et uttrykk for $\frac{w}{r}$, og sett dette inn i $K(w, r, x)$.   
 c) Nå skal du ha en likning som knytter sammen x, N, og K. Løs denne likningen for x, og fortell bedriftseieren hvilken produktfunksjon hun bruker! Sjekk at du har rett ved å verifisere at ditt resultat gir samme kostnad som i (5).     
 d) Hvilke skalaegenskaper har denne produktfunksjon?   
 
