@@ -35,7 +35,7 @@ NB. Dere følger kun forelesningene til sok-1002, og behøver ikke å gjøre noe
 
 - [Derek J. Clark](https://uit.no/ansatte/derek.clark){:target="blank"} (fagansvarlig)
 - [Espen Sirnes](https://uit.no/ansatte/person?p_document_id=41418){:target="blank"}
-- [Øystein Myrland](https://uit.no/ansatte/person?p_document_id=41412){:target="blank"} 
+
  
 
 ## Administrative spørsmål
