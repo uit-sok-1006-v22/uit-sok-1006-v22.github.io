@@ -11,7 +11,7 @@ Se gjerne over forelesningene fra Sok-1003 før seminarrekken begynner (spesielt
 
 |Uke| Seminarnr.    | Tema  <img width=350/>     |  Oppgaver og ressurser <img width=350/>  |
 |----|------------|-----------------------------------------------|--------------------------------------|
-| 9| S1  | Tilbud og etterspørsel I                |Kap 3 [Oppgaver](seminarer/seminar_1.md){:target="blank"}<br> Løsning oppgave 1, 2, 3: se Jupyter notebooks<br> [Løsning oppgave 3d](/seminarer/Løs_sem1_oppg 3d.pdf)<br> [Løsning oppgave 4](/seminarer/Løs_sem_1_oppg_4.pdf)|
+| 9| S1  | Tilbud og etterspørsel I                |Kap 3 [Oppgaver](seminarer/seminar_1.md){:target="blank"}<br> Løsning oppgave 1, 2, 3: se Jupyter notebooks<br> [Løsning oppgave 3d](/seminarer/Løs_sem1_oppg 3d.pdf)<br> [Løsning oppgave 4](/seminarer/Løs_sem_1_oppg_4.pdf)<br> [Løsning oppgave 5](/seminarer/Løs_sem_1_oppg_5.pdf)|
 | 11|S2    | Tilbud og etterspørsel II - økonomisk politikk   | Kap 3 [Oppgaver](seminarer/seminar_2.md){:target="blank"}<br> Løsning oppgave 1, 2, 3: se Jupyter notebooks |
 | 12|S3    | Produksjon I - teknologi               |Kap 4 [Oppgaver](seminarer/seminar_3.md){:target="blank"}<br> Løsning oppgave 1, 2, 3: se Jupyter notebooks |
 | 13|S4    | Produksjon II - kostnader og kostnadsminimering    |Kap 5 [Oppgaver](seminarer/seminar_4.md){:target="blank"}<br> Løsning oppgave 1, 2, 3, 4: se Jupyter notebooks   |
