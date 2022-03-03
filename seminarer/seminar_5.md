@@ -19,7 +19,7 @@ a) Hva kan du si om skalaegenskapene til produksjonen i denne bedriften?
 b) Bruk likning (1) til å skrive en Cobb-Douglas produktfunksjon for Dereks Dingser.   
 c) På kort sikt har bedriften tilgang til begrenset kapital $K\_0$. Prisen per enhet kapital er fast $r$, mens én time med arbeidskraft koster $w$; bedriften har ingen faste kostnader. Dingser selges for en fast pris på $p$ kr per enhet.
 På kort sikt kan Derek velge hvor mange timer arbeidskraft som tilsettes for å maksimere overskuddet til bedriften. 
-Skriv ut fortjenesten til bedriften, og finn ut hvor mye arbeidskraft det er som maksimerer overskuddet: $N^{\*}(p,w,r K\_0)$. 
+Skriv ut fortjenesten til bedriften, og finn ut hvor mye arbeidskraft det er som maksimerer overskuddet: $N^{\*}(p,w,r, K\_0)$. 
 Daglig leder Derek er noe skeptisk til om dette er et maksimum. Kan du overbevise ham?    
 d) Hvordan endres bedriftens etterspørselen etter arbeidskraft når de eksogene variablene $Np,w,r K\_0$ endres? Forklar intuisjonen bak dine funn.   
 e) Finn bedriftfens kostnadsfunksjon på kort sikt, og vis Derek hvor mye dingser han bør tilby til markedet til enhver pris (dvs tegn tilbudsfunksjonen på kort sikt).   
