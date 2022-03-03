@@ -21,7 +21,7 @@ c) På kort sikt har bedriften tilgang til begrenset kapital $K\_0$. Prisen per 
 På kort sikt kan Derek velge hvor mange timer arbeidskraft som tilsettes for å maksimere overskuddet til bedriften. 
 Skriv ut fortjenesten til bedriften, og finn ut hvor mye arbeidskraft det er som maksimerer overskuddet: $N^{\*}(p,w,r, K\_0)$. 
 Daglig leder Derek er noe skeptisk til om dette er et maksimum. Kan du overbevise ham?    
-d) Hvordan endres bedriftens etterspørselen etter arbeidskraft når de eksogene variablene $Np,w,r K\_0$ endres? Forklar intuisjonen bak dine funn.   
+d) Hvordan endres bedriftens etterspørselen etter arbeidskraft når de eksogene variablene $N,p,w,r, K\_0$ endres? Forklar intuisjonen bak dine funn.   
 e) Finn bedriftfens kostnadsfunksjon på kort sikt, og vis Derek hvor mye dingser han bør tilby til markedet til enhver pris (dvs tegn tilbudsfunksjonen på kort sikt).   
 f) På en strategisamling kommer et innspill om at bedriften burde planlegge for fremtiden, og ikke bare se på kortsiktige løsninger. Styret gir deg oppdraget: "På lang sikt bør bedriften Dereks Dingser ansette arbeidskraft og kapital i optimale mengder for å maksimere bedriftens overskudd. Identifisér optimale mengder av disse produksjonsfaktorer på lang sikt".        
 g) Styret går videre i sitt oppdrag, og vil ha deg til å beregne bedriftens tilbudsfunksjon på lang sikt. De ber deg i tillegg utføre ulike scenarioanalyser: Hva skjer med tilbudskurven for dingser dersom: (i) $p$ faller med 25%, (ii) $w$ øker med 10%, (iii) $r$ øker med 10%. Forklar intuisjonen bak dine funn for de styremedlemmene som ikke har en økonomifaglig bakgrunn.   
