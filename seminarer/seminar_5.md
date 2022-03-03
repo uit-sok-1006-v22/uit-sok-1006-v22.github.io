@@ -11,10 +11,10 @@
 
 
 \begin{equation}
-    ln x = ln e+\frac{1}{2} ln N + \frac{1}{3} ln K
+    ln x = ln Z \frac{1}{2} ln N + \frac{1}{3} ln K
 \end{equation}
 
-hvor $e$ er Eulers tall.   
+   
 a) Hva kan du si om skalaegenskapene til produksjonen i denne bedriften?   
 b) Bruk likning (1) til å skrive en Cobb-Douglas produktfunksjon for Dereks Dingser.   
 c) På kort sikt har bedriften tilgang til begrenset kapital $K\_0$. Prisen per enhet kapital er fast $r$, mens én time med arbeidskraft koster $w$; bedriften har ingen faste kostnader. Dingser selges for en fast pris på $p$ kr per enhet.
