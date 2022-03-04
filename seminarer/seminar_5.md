@@ -38,7 +38,7 @@ Daglig leder Derek jobber i en bedrift som lager dingser. Etter mange år har ha
 \end{equation}
 
 (noe av koden fra seminar 4 kan være nyttig her).  
-Bruk dine estimatene på $a$ og $b$ og $lnZ$ i den følgende analysen (bruk 1 desimalplass).   
+Bruk dine estimatene på $a$ og $b$ og $lnZ$ i den følgende analysen.   
 a) Hvordan ser bedriftens Cobb-Douglas produktfunksjon ut? Hvilke skalaegenskaper har den?   
 b) Bedriftens mål er å maksimere overskudd. Sett opp bedriftens maksimeringsproblem. På kort sikt kan ikke bedriften endre bruken av kapital, slik at kapitalmengden er fast: $K=K\_0$. Gitt lønn $w$ og kapitalpris $r$ må Derek informere bedriftens styre hvor mye arbeidskraft som bør ansettes på kort sikt. Styremedlemmene i bedriften vil helst ha en figur, og ikke et matematisk uttrykk som viser forholdet mellom lønn og optimal arbeidsinnsats; tegn en figur med $N$ på den vertikale aksen og $w$ på den horisontale.    
 c) Derek oppsøker styrerommet, fornøyd med løsningen som "han" har funnet. Styreleder C. Kent ser på figuren, og stiller et noe ekkelt spørsmål: "Er du fornøyd med hvordan denne etterspørselsfunksjonen ser ut, Derek?". Slukøret må Derek innrømme at han ikke er helt fornøyd (men han vet ikke hvorfor). Hva kan ha gått galt her? For å undersøke dette kan du (i) prøve å tegne profittfunksjonen (sett for eksempel $p=10, w=1, K\_0=1$) , og (ii) sjekke om den 2. ordens betingelsen for et maksimum er oppfylt. Etter det må du forklare for Derek hva som er problemet, så enkelt som mulig og uten faguttrykk.   
