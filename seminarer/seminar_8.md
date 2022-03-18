@@ -30,7 +30,7 @@ hvor $\beta\_1+\beta\_2=1$, og $\gamma\_1>0, \gamma\_2>0$.
 Du har tidligere regnet ut hvordan etterspørselen ser ut gitt disse preferansene. Se på likning (4) i [Jussila et al. (2012)](/seminarer/LES Finland 2012.pdf) om du har glemt dette. Ved å gange etterspørsel etter vare i med prisen på vare i får man et uttrykk for utgiften til denne varen (se Jussila likning 5). Utgiften er lineær i alle priser og inntekt, og denne modellen kalles derfor Linear Expenditure System (LES).    
 a) Finn uttrykk for egenpris-, krysspris- og inntektselastisitetene. (Du kan sjekke om du har rett ved å se på Jussila likning 6, 7 og 8).    
 b) Er dette en rimelig spesifisering av preferanser, tenker du? Må $\gamma\_1, \gamma\_2$ være positive tall. Hva innebærer det for elastisitetene om en eller begge av disse parametre er negative?       
-c) Hva viser $\beta\_1, \beta\_2$, og hvorfor er det rimelig at de summerer til 1? (Se på likning (5) i Jussi et al. og tenke hva som skjer med utgiften på hvert gode dersom inntekten økes med 1 kr).    
+c) Hva viser $\beta\_1, \beta\_2$, og hvorfor er det rimelig at de summerer til 1? (Se på likning (5) i Jussila et al. og tenke hva som skjer med utgiften på hvert gode dersom inntekten økes med 1 kr).    
 d) Tegn Engelkurven til gode 1. Forklar hvordan (og hvorfor) den endres når $\gamma\_1, \gamma\_2, \beta\_1, \beta\_2, p\_1, p\_2$ endrer seg.     
 
 ### Oppgave 3
