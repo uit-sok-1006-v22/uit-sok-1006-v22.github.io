@@ -13,7 +13,7 @@ Se gjerne over forelesningene fra Sok-1003 før seminarrekken begynner (spesielt
 |----|------------|-----------------------------------------------|--------------------------------------|
 | 9| S1  | Tilbud og etterspørsel I                |Kap 3 [Oppgaver](seminarer/seminar_1.md){:target="blank"}<br> Løsning oppgave 1, 2, 3: se Jupyter notebooks<br> [Løsning oppgave 3d](/seminarer/Løs_sem1_oppg 3d.pdf)<br> [Løsning oppgave 4](/seminarer/Løs_sem_1_oppg_4.pdf)<br> [Løsning oppgave 5](/seminarer/Løs_sem_1_oppg_5.pdf)|
 | 11|S2    | Tilbud og etterspørsel II - økonomisk politikk   | Kap 3 [Oppgaver](seminarer/seminar_2.md){:target="blank"}<br> Løsning oppgave 1, 2, 3: se Jupyter notebooks <br> [Løsning oppgave 4](/seminarer/løs_sem_2-oppg4.pdf) |
-| 12|S3    | Produksjon I - teknologi               |Kap 4 [Oppgaver](seminarer/seminar_3.md){:target="blank"}<br> Løsning oppgave 1, 2, 3: se Jupyter notebooks |
+| 12|S3    | Produksjon I - teknologi               |Kap 4 [Oppgaver](seminarer/seminar_3.md){:target="blank"}<br> Løsning oppgave 1, 2, 3: se Jupyter notebooks<br> [Løsning oppgave 4](/seminarer/Løs_sem_3_oppg_4.pdf) |
 | 13|S4    | Produksjon II - kostnader og kostnadsminimering    |Kap 5 [Oppgaver](seminarer/seminar_4.md){:target="blank"}<br> Løsning oppgave 1, 2, 3, 4: se Jupyter notebooks   |
 | 14| S5| Produksjon III - bedriftens produkttilbud og faktoretterspørsel       |Kap 6 [Oppgaver](seminarer/seminar_5.md){:target="blank"} |
 | 16|  S6| Gjennomgang av prosjektoppgaven |        |
