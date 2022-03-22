@@ -11,7 +11,7 @@
 
 
 \begin{equation}
-    ln x = ln Z \frac{1}{2} ln N + \frac{1}{4} ln K
+    ln x = ln Z +\frac{1}{2} ln N + \frac{1}{4} ln K
 \end{equation}
 
    
