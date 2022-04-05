@@ -14,7 +14,7 @@ Studenten Stan har preferanser over gode 1 ($x\_1$) og gode 2 ($x\_2$) gitt ved 
 \end{equation}
 
 Prisene på godene er $p\_1, p\_2$, og Stan har $m$ kr i inntekt. Hva forteller $a$ og $b$ om Stan sine preferanser?      
-a) Hvor mye av gode 1 og gode 2 etterspør Stan? Vis løsningen grafisk ved å tegne inn Stan sine indifferennskurver og budsjett. Hvordan endres etterspørsel når de eksogene parametrene endres ($p\_1, p\_2, m, a, b$)? Forklar.       
+a) Hvor mye av gode 1 og gode 2 etterspør Stan? Vis løsningen grafisk ved å tegne inn Stan sine indifferenskurver og budsjett. Hvordan endres etterspørsel når de eksogene parametrene endres ($p\_1, p\_2, m, a, b$)? Forklar.       
 b) Stan er en oppegående fyr som studerer musikk på Konsen, men har aldri tatt noe økonomi. Forklar for han hvorfor løsningen som du har funnet i (a) er en optimal tilpasning.   
 c) I produskjonsteori oppdaget vi et mulig problem for en bedrift som ville maksimere sin fortjeneste, og som hadde en Cobb-Douglas produktfunksjon med $a+b>1$. Er dette problematisk her? Hvorfor/hvorfor ikke?    
 d) Stan får besøk av tvillingbror Sylvester som er helt lik Stan på alle måter. Han har til og med samme inntekt. Det viser seg at Sylvester har preferanser over gode 1 og 2 som er gitt ved
