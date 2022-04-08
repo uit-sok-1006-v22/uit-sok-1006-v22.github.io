@@ -2,18 +2,34 @@
 
 ## Mappeoppgave 2    
 
-Denne mappeoppgaven består av ett case. Det er lov å samarbeide i grupper på inntil 3 studenter. Tilbakemelding underveis: de som ønsker tilbakemelding kan levere et utkast i Canvas innen 13. mai kl 16.00. Tilbakemelding gis i løpet av uke 20.  
+Denne mappeoppgaven består av ett case. Det er lov å samarbeide i grupper på inntil 3 studenter. Tilbakemelding underveis: de som ønsker tilbakemelding kan levere et utkast i Canvas innen 13. mai kl 16.00. Tilbakemelding gis i løpet av uke 20.         
+Besvarelsen på mappeoppgaven leveres i Wiseflow innen 30. mai 2022 kl. 16.00.
 
 ### Case: Kraftmarkedet i Norge   
 
-#### **A. Bakgrunn**       
+#### A. Bakgrunn       
 
 Du skal lage et notat med tre kapitler som omhandler ulike preoblemstillinger knyttet til kraftmarkedet i Norge. Notatet er tenkt brukt i undervisningen på et kurs i samfunnsøkonomi for kull 2022 til høsten. Kapittel 1 gir en oversikt over markedet, kapittel 2 presenterer en debatt om effekten av en reduksjon i forbrukeravgiften på strøm, og kapittel 3 gir en økonomisk analyse av ulike støttetiltak for konsumenter på grunn av de høye strømprisene i 2021. Analysen vil bestå av tekst og figurer som kan forstås av nye studenter; kode og teknisk analyse som du bruker skal legges i et appendiks.
    
 
-#### **B. Instruksjoner**       
+#### B. Instruksjoner      
+##### Kapittel 1     
+Beskrivelse av markedet (aktører, kraftkilder, regioninndeling, prising, eksport/import, avgifter).     
+Estimer etterspørsel og elastisitet (Espen)      
+Skisser tilbud basert på driftskomponenten av LCOE       
+Samfunnsøkonomisk optimalitet  
+Scenarioanalyse - hva skjer om vi bygge ut muligheten for å sende strøm fra NN til Sør-Norge, evt nye kraftkabler til utlandet?       
 
-#### **C. Bedømmelse**    
+
+##### Kapittel 2
+
+Debatten fra DN (Nævdal vs alle andre) om effekten av å redusere forbrukeravgiften      
+
+##### Kapittel 3
+
+Sammenlign konsumentens tilpasning gitt forskjellige støtteordninger: prosentvis dekning over en terskelpris inntil et nivå, kontanktbeløp (andre forslag)
+
+#### C. Bedømmelse    
 Formålet med denne oppgaven er å utforske hvordan kraftmarkedet fungerer, og formidle funn til nye studenter i samfunnsøkonomi i et notat.
  
 
