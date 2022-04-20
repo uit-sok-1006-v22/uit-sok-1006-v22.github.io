@@ -1,4 +1,3 @@
-{% include navbar.html %} {% include top-box.html %}
 # Sok-1006 Mikroøkonomi
 
 ## Mappeoppgave 1    
