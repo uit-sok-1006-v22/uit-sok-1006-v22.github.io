@@ -66,8 +66,4 @@ Kurset har mappeevaluering. Alle oppgaver er obligatorisk; noen er _arbeidskrav_
 
 Frister, oppgaver og ressurser finnes i [innleveringsplan](innleveringer.md){:target="blank"}.    
 
- 
-
-
-
 
