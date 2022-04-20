@@ -1,4 +1,4 @@
-{% include navbar.html %} {% include top-box.html %}
+{% include ../navbar.html %} {% include ../top-box.html %}
 # SOK-1006 Mikroøkonomi
 ## Arbeidskrav våren 2022
 
