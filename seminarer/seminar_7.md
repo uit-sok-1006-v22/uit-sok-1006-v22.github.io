@@ -68,7 +68,7 @@ g) Med pris $p$ og inntektsskatten fra del (f) forklar hvorfor Sylvi fortsatt ha
 h) Sylvi tenker at hun kommer til å få det verre med en skatt på inntekt heller enn en skatt på et enkelt gode. Ta frem figuren som du tegnet i del (b), og tegn budsjettlinjen med inntektsskatten som du fant i del (f) (og husk det du fant ut i del (g)). Bruk denne figuren til å vise Sylvi at hun tar feil.    
 i) "Dette skjønner jeg lite av" sier Sylvi. "En skatt på inntekt er det samme som å skatte mitt forbruk av begge goder, og da må en skatt på ett gode være bedre for meg" fortsetter hun. Forklar så enkelt som mulig hvorfor hun tar feil.     
 
-### Oppgave 4    
+### Oppgave 4 (vi går ikke gjennom denne oppgaven ettersom den likner en del av mappeoppgave 2 2022)    
 
 Strømpriser har vært høye, spesielt i Sør. Regjeringen har brukt ulike subsidier til å hjelpe husholdninger til å klare å betale strømregningen. I desember 2021 innførte regjeringen en subsidie på innkjøp av strøm for noen husholdninger. [Subsidiesatsen](https://www.regjeringen.no/no/aktuelt/regjeringen-oppjusterer-sikringsordningen-og-gir-folk-mer-stromstotte/id2894979/){:target="_blank"} ble oppjustert i januar 2022. Før dette lanserte regjeringen en generell inntektsstøtte for utvalgte husholdninger i [Prop 8s (2021-2022)](/seminarer/Prop 8s.pdf){:target="_blank"}.         
 Tenk på en representativ husholdning med inntekt $m$. Med strømpris $p$ vil en subsidie på kjøp av strøm på $s$ føre til at husholdningen betaler $p(1-s)$ per Kilowatt/time. En generell inntektsstøtte på $S$ kr vil gi husholdningen en samlet inntekt på $m+S$ kr. Gitt at husholdningen mottar samme beløp i støtte, undersøk hvilket av disse tiltakene det er som foretrekkes av husholdningen. Forklar intuisjonen bak resultatet. 
