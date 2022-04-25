@@ -3,7 +3,7 @@
 
 ## Innleveringer 
 
-- Arbeidskrav er obligatorisk, og må være bestått for å få mappen vurdert
+- Arbeidskrav er obligatorisk, men inngår ikke i mappen.
 - Mappeinnleveringer er obligatoriske, og danner grunnlag for karakter A-F på kurset.
 - Skriftlige mappeoppgaver leveres i [Wiseflow](https://europe.wiseflow.net/login/license/6){:target="blank"}. 
 
