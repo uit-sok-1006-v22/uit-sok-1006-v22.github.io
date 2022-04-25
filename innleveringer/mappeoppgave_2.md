@@ -17,7 +17,7 @@ Dere skal se på kraftmarkedet i Norge. Noen nyttige kilder som dere kan velge �
 
 #### A. Bakgrunn       
 
-Du skal lage et notat med tre kapitler som omhandler ulike preoblemstillinger knyttet til kraftmarkedet i Norge. Notatet er tenkt brukt i undervisningen på et kurs i samfunnsøkonomi for kull 2022 til høsten. Kapittel 1 gir en oversikt over markedet, kapittel 2 presenterer en debatt om effekten av en reduksjon i forbrukeravgiften på strøm, og kapittel 3 gir en økonomisk analyse av ulike støttetiltak for konsumenter på grunn av de høye strømprisene i 2021 og 2022. Analysen vil bestå av tekst, figurer, teknisk analyse og kode som kan forstås av nye studenter; gi intuitive forklaringer på dine resultater.
+Du skal lage et notat med tre kapitler som omhandler ulike problemstillinger knyttet til kraftmarkedet i Norge. Notatet er tenkt brukt i undervisningen på et kurs i samfunnsøkonomi for kull 2022 til høsten. Kapittel 1 gir en oversikt over markedet, kapittel 2 presenterer en debatt om effekten av en reduksjon i forbrukeravgiften på strøm, og kapittel 3 gir en økonomisk analyse av ulike støttetiltak for konsumenter på grunn av de høye strømprisene i 2021 og 2022. Analysen vil bestå av tekst, figurer, teknisk analyse og kode som kan forstås av nye studenter; gi intuitive forklaringer på dine resultater.
    
 
 #### B. Instruksjoner      
@@ -27,11 +27,27 @@ Her skal du kartlegge strukturen i kraftmarkedet. Noen momenter som du kan tenke
 Beskrivelse av markedet (aktører, kraftkilder, regioninndeling, prising, eksport/import, avgifter).    
 
 ###### 1.2 Etterspørsel etter strøm i Norge
-Estimer etterspørsel og elastisitet (Espen)      
+I dette avsnittet skal du se på etterspørsel etter strøm i Norge. Nedenfor finner du noen spørsmål som skal brukes som grunnlag for dette avsnittet. Husk at du skriver et notat, slik at svarene på spørsmålene inngår i en utfyllende tekst.     
 
-###### 1.3 Scenarioanalyse - effekten av en ny internasjonal kraftkabel        
+I "https://uit-sok-1006-v22.github.io/innleveringer/kraft-pris-prod.csv" ligger det data for kraftmarkedet i Norge. Dataene inneholder årlige gjennomsnitt for kraftprisen i Oslo-området (dvs. Østlandet) og Tromsø-området (dvs. Nord-Norge) i EUR/Mwh, og total produksjon av kraft, i tillegg til import og eksport. 
 
-Scenarioanalyse - hva skjer om vi bygger ut muligheten for å sende strøm fra NN til Sør-Norge, evt nye kraftkabler til utlandet?       
+1.2.1 Hent inn dataene, og lag to nye variabler med logaritmen av produksjon og logaritmen av pris i Oslo-området, vis dataene og lag et plott med logartimen av henholdsvis pris i Oslo langs y-aksen og total produksjon langs x-aksen.      
+
+I løpet av 2021 ble to nye kabler til utlandet åpnet. Disse var NorthConnect til Storbritannia og NordLink til Tyskland. Vi skal bruke dataene fra det norske kraftmarkedet til å finne ut omtrent hvilken prisendring vi kan forvente at disse kablene kan ha gitt. Fordi markedet i Europa har endret seg betydelig det siste året, kan vi ikke bare se på prisen før og etter kablene ble åpnet. I stedet estimerer vi en elastisitet, og beregner effekten med den. 
+
+1.2.2 Kjør en regresjon med total produksjon som uavhengig variabel og pris i Oslo som avhengig variabel. 
+    1.  Hva er tolkningen av koeffisienten til produksjon her? 
+    2.  Hvilken forutsetning er nødvendig for at koeffisienten skal beskrive hvordan konsumentene oppfører seg, og ikke hvordan produsentene oppfører seg? Er det en realistisk forutsetning i dette tilfellet (hint: produsentene kan ikke påvirke hvor mye nedbør det kommer i løpet av ett år eller hvor mye det blåser)
+    3. Legg til en regresjonslinje til plottet du laget i 1.2.1.
+    4. Er koeffisienten du har estimert signifikant eller ikke signifikant?
+
+1.2.3 Vi kan gjøre noen enkle justeringer for å forbedre påliteligheten til resultatet. Kjør regresjonen på nytt med følgende justeringer
+    1. prisene i Oslo og Tromsø tilsier at vi kan anse landet som ett marked, bortsett fra for ett bestemt år. Fjern dette året fra datasettet. 
+    2. Vi bør ta hensyn til at det har vært er en vekst is kapasiteten i utvalgsperioden. Siden regresjonen er på log-form, er det tilstrekkelig å legge til tid (År) som variabel for å ta hensyn til det. 
+    3. Finn etter beste evne ut hvor mye kablene til Storbritannia og Tyskland kan antas å bli i prosent av total produksjon. Bruk dette tallet til å finne ut hvor mange prosent vi kan forente at prisene vil øke som følge av disse kablene.
+    4. Forklar ved hjelp av mikroøkonomisk teori hvorfor det kan være lurt å bygge slike kabler, til tross for en prisøkning, 
+
+    
 
 
 ##### Kapittel 2 - Aktuell debatt: Vil husholdninger få en lavere strømregning om forbrukeravgiften reduseres?    
