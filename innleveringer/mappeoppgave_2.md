@@ -35,17 +35,19 @@ I "https://uit-sok-1006-v22.github.io/innleveringer/kraft-pris-prod.csv" ligger 
 
 I løpet av 2021 ble to nye kabler til utlandet åpnet. Disse var NorthConnect til Storbritannia og NordLink til Tyskland. Vi skal bruke dataene fra det norske kraftmarkedet til å finne ut omtrent hvilken prisendring vi kan forvente at disse kablene kan ha gitt. Fordi markedet i Europa har endret seg betydelig det siste året, kan vi ikke bare se på prisen før og etter kablene ble åpnet. I stedet estimerer vi en elastisitet, og beregner effekten med den. 
 
-1.2.2 Kjør en regresjon med total produksjon som uavhengig variabel og pris i Oslo som avhengig variabel. 
-    1.  Hva er tolkningen av koeffisienten til produksjon her? 
-    2.  Hvilken forutsetning er nødvendig for at koeffisienten skal beskrive hvordan konsumentene oppfører seg, og ikke hvordan produsentene oppfører seg? Er det en realistisk forutsetning i dette tilfellet (hint: produsentene kan ikke påvirke hvor mye nedbør det kommer i løpet av ett år eller hvor mye det blåser)
-    3. Legg til en regresjonslinje til plottet du laget i 1.2.1.
-    4. Er koeffisienten du har estimert signifikant eller ikke signifikant?
+1.2.2 Kjør en regresjon med total produksjon som uavhengig variabel og pris i Oslo som avhengig variabel.     
+    1.  Hva er tolkningen av koeffisienten til produksjon her?     
+    2.  Hvilken forutsetning er nødvendig for at koeffisienten skal beskrive hvordan konsumentene oppfører seg, og ikke hvordan produsentene oppfører seg? Er det en realistisk forutsetning i dette tilfellet (hint: produsentene kan ikke påvirke hvor mye nedbør det kommer i løpet av ett år eller hvor mye det blåser)     
+    3. Legg til en regresjonslinje til plottet du laget i 1.2.1.    
+    4. Er koeffisienten du har estimert signifikant eller ikke signifikant?    
 
-1.2.3 Vi kan gjøre noen enkle justeringer for å forbedre påliteligheten til resultatet. Kjør regresjonen på nytt med følgende justeringer
-    1. prisene i Oslo og Tromsø tilsier at vi kan anse landet som ett marked, bortsett fra for ett bestemt år. Fjern dette året fra datasettet. 
-    2. Vi bør ta hensyn til at det har vært er en vekst is kapasiteten i utvalgsperioden. Siden regresjonen er på log-form, er det tilstrekkelig å legge til tid (År) som variabel for å ta hensyn til det. 
-    3. Finn etter beste evne ut hvor mye kablene til Storbritannia og Tyskland kan antas å bli i prosent av total produksjon. Bruk dette tallet til å finne ut hvor mange prosent vi kan forente at prisene vil øke som følge av disse kablene.
-    4. Forklar ved hjelp av mikroøkonomisk teori hvorfor det kan være lurt å bygge slike kabler, til tross for en prisøkning, 
+1.2.3 Vi kan gjøre noen enkle justeringer for å forbedre påliteligheten til resultatet. Kjør regresjonen på nytt med følgende justeringer:      
+    1. prisene i Oslo og Tromsø tilsier at vi kan anse landet som ett marked, bortsett fra for ett bestemt år. Fjern dette året fra datasettet.     
+    2. Vi bør ta hensyn til at det har vært er en vekst is kapasiteten i utvalgsperioden. Siden regresjonen er på log-form, er det tilstrekkelig å legge til tid (År) som variabel for å ta hensyn til det.       
+    
+Vi skal nå bruke resultatet for å si noe om effekten av kraftkablene på pris.     
+1.2.4 Finn etter beste evne ut hvor mye kablene til Storbritannia og Tyskland kan antas å bli i prosent av total produksjon. Bruk dette tallet til å finne ut hvor mange prosent vi kan forente at prisene vil øke som følge av disse kablene.     
+1.2.5 Forklar ved hjelp av mikroøkonomisk teori hvorfor det kan være lurt å bygge slike kabler, til tross for en prisøkning.    
 
     
 
