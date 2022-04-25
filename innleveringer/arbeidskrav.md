@@ -5,7 +5,7 @@
 
 ### Muntlig presentasjon
 
-Arbeidskravet blir en muntlig presentasjon som varer i ca 15 minutter inkludert diskusjon. Dette må bestås for å få kursmappen vurdert, og kan løses i grupper på inntil 3 studenter. Alle gruppemedlemmer må delta i alle oppgavens faser (forberedelse og gjennomføring). Lærerne som vil være til stede: Derek og Espen.    
+Arbeidskravet blir en muntlig presentasjon som varer i ca 15 minutter inkludert diskusjon. Dette kan løses i grupper på inntil 3 studenter. Alle gruppemedlemmer må delta i alle oppgavens faser (forberedelse og gjennomføring). Lærerne som vil være til stede: Derek og Espen.    
 
 **1. Bakgrunn**    
 Økonomer må ofte gjøre fagstoff tilgjengelig for folk som ikke har økonomibakgrunn.
