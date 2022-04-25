@@ -46,8 +46,11 @@ I løpet av 2021 ble to nye kabler til utlandet åpnet. Disse var NorthConnect t
     2. Vi bør ta hensyn til at det har vært er en vekst is kapasiteten i utvalgsperioden. Siden regresjonen er på log-form, er det tilstrekkelig å legge til tid (År) som variabel for å ta hensyn til det.       
     
 Vi skal nå bruke resultatet for å si noe om effekten av kraftkablene på pris.     
+
 1.2.4 Finn etter beste evne ut hvor mye kablene til Storbritannia og Tyskland kan antas å bli i prosent av total produksjon. Bruk dette tallet til å finne ut hvor mange prosent vi kan forente at prisene vil øke som følge av disse kablene.     
-1.2.5 Forklar ved hjelp av mikroøkonomisk teori hvorfor det kan være lurt å bygge slike kabler, til tross for en prisøkning.    
+
+1.2.5 Forklar ved hjelp av mikroøkonomisk teori hvorfor det kan være lurt å bygge slike kabler, til tross for en prisøkning.      
+
 
     
 
