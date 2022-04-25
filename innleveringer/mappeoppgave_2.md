@@ -22,6 +22,9 @@ Du skal lage et notat med tre kapitler som omhandler ulike problemstillinger kny
 
 #### B. Instruksjoner      
 ##### Kapittel 1 - Slik virker kraftmarkedet      
+
+ca 1000-1500 ord      
+
 ###### 1.1 Beskrivelse av det norske kraftmarkedet
 Her skal du kartlegge strukturen i kraftmarkedet. Noen momenter som du kan tenke på er for eksempel: hvem er aktørene som produserer og formidler kraft, hvordan settes prisen, hvilke kraftkilder brukes i Norge (og utlandet), inndeling i kraftområder, eksport/import av kraft, avgifter knyttet til kraftproduksjon og forbruk.
 Beskrivelse av markedet (aktører, kraftkilder, regioninndeling, prising, eksport/import, avgifter).    
@@ -57,11 +60,15 @@ Vi skal nå bruke resultatet for å si noe om effekten av kraftkablene på pris.
 
 ##### Kapittel 2 - Aktuell debatt: Vil husholdninger få en lavere strømregning om forbrukeravgiften reduseres?    
 
+ca 500-1000 ord     
+
 Her skal du gi en faglig oppsummering av en debatt som har pågått mellom samfunnsøkonomer i Dagens Næringsliv om effekten av å redusere forbrukeravgiften (også kalt elavgiften) på strøm. Forklar først hva denne avgiften er og hvordan den fastsettes. [Eric Nævdal](https://www.dn.no/innlegg/elavgiften/strom/strompris/innlegg-elavgiftskutt-hjelper-ikke-stromkundene-men-det-gjor-elavgift-pa-eksportstrom/2-1-1065150) påstår at en reduksjon i forbrukeravgiften på strøm ikke vil redusere strømregningen til husholdninger. [Nils-Henrik M. von der Fehr](https://www.dn.no/innlegg/innlegg-navdals-teori-passer-ikke-for-kraftmarkedet/2-1-1070683) mener at dette ikke stemmer.    
 
 Les Nævdals innlegg frem til "Vann- og vindkraft er derfor ideele varer å beskatte", og bruk din bakgrunn i mikroøkonomi til å forklare hans argumenter for ferske studenter (tegn gjerne et eller flere markedskryss for å illustrere). Les deretter von der Fehr sitt innlegg, og tegn et markedskryss som illustrerer hvordan han tenker. Forklar hvorfor han er uenig med Nævdal. Hvem er du enig med, og hvorfor? 
 
 ##### Kapittel 3 - Tiltak mot høye strømpriser   
+
+ca 500-1000 ord    
 
 Strømpriser har vært høye, og regjeringen har innført ulike tiltak for å hjelpe husholdninger med å klare å betale strømregningen. [Strømstøtte til husholdninger](https://www.regjeringen.no/no/tema/energi/regjeringens-stromtiltak/id2900232/?expand=factbox2900261) er et slikt tiltak hvor en andel av kraftprisen betales av myndighetene dersom den gjennomsnittlige månedsprisen ligger over en terskelverdi inntil 5000 KW/t per måned. Hvordan denne støtten ble utregnet for mars 2022 kan dere finne [her](https://www.nve.no/reguleringsmyndigheten/nytt-fra-rme/nyheter-reguleringsmyndigheten-for-energi/stroemstoette-her-er-stoettesatsene-for-mars/).    
 
