@@ -57,11 +57,11 @@ b) Myndighetene legger en skatt på kjøp av gode $x$, og selgere av denne varen
 c) Bruk figuren til å dekomponere effekten på etterspørsel etter $x$ i en inntektseffekt og en substitusjonseffekt.   
 d) Vi skal nå prøve å beregne størrelsen på inntekts- og substitusjonseffektene. Følg stegene nedenfor for å gjøre dette. Prøv å beregne uten å sette inn tall for hvert steg; etter at du har funnet et analytisk uttrykk for et steg kan du sette inn følgende tallverdier, og sjekke at du får det samme som tallet i parenthes: $m=1, a=\frac{1}{2}, p=0,2, t=0,1$.   
 Steg 1. La $x(t)$ være etterspørsel etter gode $x$ avhengig av skattesatsen. Da er $x(0)$ etterspørselen uten skatt som du fant i del (a). Finn den totale reduksjon i etterspørsel etter gode $x$: $x(0)-x(t)$. ($0,227$).   
-Steg 2. Beregn hvor mye nytte Sylvi får fra tilpasningen etter at skatten er innført, dvs fra del (b). ($1,066$).   
-Steg 3. Med $t=0$ (dvs med prisen før skatten ble innført), hvor mye inntekt må Sylvi ha for å oppnå samme nytte som du fant i steg 2? ($0,953$).   
-Steg 4. Med prisen $p$ og inntekten fra steg 3, hvor mye av gode $x$ etterspør Sylvi? ($2,384$). Pass på at du vet hvilket punkt dette tilsvarer i din figur.   
-Steg 5. Inntektseffekten er forskjellen mellom etterspørsel etter $x$ fra del (a) og steg 4. ($0,116$).   
-Steg 6. Substitusjonseffekten er forskjellen mellom etterspørsel etter $x$ fra steg 4 og del (b). ($0,111$).   
+Steg 2. Beregn hvor mye nytte Sylvi får fra tilpasningen før skatten er innført. ($1,118$).   
+Steg 3. Med $t=0,1$ (dvs med prisen etter at avgiften er innført), hvor mye inntekt må Sylvi ha for å oppnå samme nytte som du fant i steg 2? ($1,0489$).   
+Steg 4. Med prisen $p(1+t)$ og inntekten fra steg 3, hvor mye av gode $x$ etterspør Sylvi? ($2,384$). Pass på at du vet hvilket punkt dette tilsvarer i din figur.   
+Steg 5. Inntektseffekten er forskjellen mellom etterspørsel etter $x$ fra del (a) og steg 4. ($-0,116$).   
+Steg 6. Substitusjonseffekten er forskjellen mellom etterspørsel etter $x$ fra steg 4 og del (b). ($-0,111$).   
 e) Hvor mye skatteproveny samles inn fra Sylvi gjennom skatten på gode $x$?   
 f) Myndighetene vurderer å erstatte skatten på gode $x$ med en inntektsskatt på $T$. Sylvi sin inntekt etter en slik skatt er $m(1-T)$; betaler hun 15% inntektsskatt vil $T=0,15$ for eksempel. Forutsetningen er at skattebeløpet som Sylvi betaler må være det samme uansett om det er inntekt eller kjøp av gode $x$ som skattelegges. Bruk ditt svar fra (e) til å beregne inntektsskattesatsen som gir like mye skatteproveny som med en skatt på gode $x$.    
 g) Med pris $p$ og inntektsskatten fra del (f) forklar hvorfor Sylvi fortsatt har råd til å kjøpe godekombinasjonen som du fant i del (b) (med en skatt på gode $x$).   
