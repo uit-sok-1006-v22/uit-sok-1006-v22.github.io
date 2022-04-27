@@ -54,7 +54,7 @@ Studenten Sylvi har preferanser over gode $x$ og et sammensatt gode som represen
 Prisen på $x$ er $p$, og prisen på $y$ er 1. Sylvi har $m$ kr i inntekt.       
 a) Hvor mye av gode $x$ og gode $y$ etterspør Sylvi?   
 b) Myndighetene legger en skatt på kjøp av gode $x$, og selgere av denne varen klarer å velte hele prisøkningen over på kjøperne slik at den nye prisen som Sylvi må betale er $p(1+t)$. Her er $t$ skattesatsen: er skatten på 10% er $t=0,1$ for eksempel. Hvordan påvirker dette Sylvi sin tilpasning? Vis tilpasningen før og etter skatten i en figur med $y$ på den vertikale og $x$ på den horisontale aksen.    
-c) Bruk figuren til å dekomponere effekten på etterspørsel etter $x$ i en inntektseffekt og en substitusjonseffekt.   
+c) Bruk figuren til å dekomponere effekten på etterspørsel etter $x$ i en inntektseffekt og en substitusjonseffekt. For å tegne en nøyaktig figur kan det være lurt å løser stegene i neste deloppgave.         
 d) Vi skal nå prøve å beregne størrelsen på inntekts- og substitusjonseffektene. Følg stegene nedenfor for å gjøre dette. Prøv å beregne uten å sette inn tall for hvert steg; etter at du har funnet et analytisk uttrykk for et steg kan du sette inn følgende tallverdier, og sjekke at du får det samme som tallet i parenthes: $m=1, a=\frac{1}{2}, p=0,2, t=0,1$.   
 Steg 1. La $x(t)$ være etterspørsel etter gode $x$ avhengig av skattesatsen. Da er $x(0)$ etterspørselen uten skatt som du fant i del (a). Finn den totale reduksjon i etterspørsel etter gode $x$: $x(0)-x(t)$. ($0,227$).   
 Steg 2. Beregn hvor mye nytte Sylvi får fra tilpasningen før skatten er innført. ($1,118$).   
