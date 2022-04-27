@@ -3,8 +3,11 @@
 
 ## Mappeoppgave 2    
 
-Denne mappeoppgaven består av ett case. Det er lov å samarbeide i grupper på inntil 3 studenter. Tilbakemelding underveis: de som ønsker tilbakemelding kan levere et utkast i Canvas innen 13. mai kl 16.00. Tilbakemelding gis i løpet av uke 20.         
-Besvarelsen på mappeoppgaven leveres i Wiseflow innen 30. mai 2022 kl. 16.00.
+Denne mappeoppgaven består av ett case. Det er lov å samarbeide i grupper på inntil 3 studenter.    
+
+Tilbakemelding underveis: de som ønsker tilbakemelding kan levere et utkast i Canvas innen 13. mai kl 16.00. Tilbakemelding gis i løpet av uke 20.    
+
+Besvarelsen på mappeoppgaven leveres i Wiseflow innen 30. mai 2022 kl. 13.00.
 
 ### Case: Kraftmarkedet i Norge 
 
