@@ -3,9 +3,9 @@
 
 ### Oppgave 1
 
-a) Hva menes med samfunnsøkonimisk overskudd? Gjør også rede for konsument- og produsentoverskudd.       
+a) Hva menes med samfunnsøkonomisk overskudd? Gjør også rede for konsument- og produsentoverskudd.       
 
-b) Invers markedtsetterspørsel er gitt ved
+b) Invers markedsetterspørsel er gitt ved
 
 
 \begin{equation}
@@ -18,7 +18,11 @@ Tegn dette i en figur sammen med invers tilbudsfunksjonen
    p= \frac{(x^{S})^2}{300}
 \end{equation}
 
-Finn likevekten.
+Finn likevekten.      
+
+c) Tegn inn og fargelegg områdene som viser konsument- og produsentoverskudd. Forklar hvorfor denne likevekten gir størst samfunnsøkonomisk overskudd.    
+
+d) Beregn overskuddene (hva er måleenheten som brukes her?).
 
 
 
