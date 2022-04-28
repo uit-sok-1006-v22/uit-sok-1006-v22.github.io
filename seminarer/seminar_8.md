@@ -41,11 +41,11 @@ Finn nyttenivået som denne tilpasningen gir, og kall det $U\_0$.
 b) Anta nå at prisen på gode 1 reduseres til $p\_1=1$. Finn den nye tilpasningen og tegn den inn i figuren fra del (a). Finn nyttenivået, og kall det $U\_1$. Beregn også den totale endringen i etterspørsel etter gode 1 og 2.              
 c) Gitt priser $p\_1=1, p\_2=2$, hvor mye inntekt trenger husholdningen for å oppnå nyttenivå $U\_0$? Finn husholdningens tipasning når den har dette inntektsnivået, og tegn denne tilpasningen i figuren fra del (b).          
 d) Bruk resultatet i (c) til å dekomponere den totale endringen i etterspørsel etter gode 1 og 2 i en inntekts- og en substitusjonseffekt.    
-e) Resultatet viser at etterspørselen etter gode 1 øker etter at $p\_1$ faller, og at både inntekst- og substisusjonseffekten er positiv. Forklar hvorfor begge effektene er positive.     
+e) Resultatet viser at etterspørselen etter gode 1 øker etter at $p\_1$ faller, og at både inntekts- og substisusjonseffekten er positiv. Forklar hvorfor begge effektene er positive.     
 f) Videre bør du ha funnet at også etterspørselen etter gode 2 øker når $p\_1$ faller, men at substitusjonseffekten er negativ mens inntektseffekten er positiv.   Forklar dette.    
 g) At etterspørselen etter gode 2 øker når $p\_1$ faller betyr at den positive inntektseffekten er større enn den negative substitusjonseffekten. Dette viser seg å alltid være tilfelle i LES modellen med $\gamma\_i$ positiv for alle goder. Som [Chang og Fawson (1994)](https://digitalcommons.usu.edu/cgi/viewcontent.cgi?article=1036&context=eri) skriver: "When the $\gamma\_i$ are positive, the cross price effects are negative, a fact implying that the income effects are stronger than the substitution effects". Forklar.     
 h) Dekomponeringen som vi har gjennomført av den totale endringen i etterspørsel i en inntekts- og substitusjonseffekt avhenger av en tenkt situasjon hvor husholdningen "kompenseres" for prisendringer ved å gi/ta inntekt fra dem slik at de oppnår samme nyttenivå som før endringen. Hvor lett er dette å gjennomføre i praksis, og kan du tenke på en mer praktisk måte å kompensere for prisendringer?     
-i) Hvorfor tar økonomer seg bryet med å dele endringer i etterspøsel etter prisendringer inn i en inntekts- og substitusjonseffekt?    
+i) Hvorfor tar økonomer seg bryet med å dele endringer i etterspørsel etter prisendringer inn i en inntekts- og substitusjonseffekt?    
 
 
 
