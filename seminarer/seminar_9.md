@@ -45,7 +45,7 @@ a) Beregn likevekten i dette markedet (før en avgift innføres). Tegn en figur 
 
 b) Tenk at en avgift på 4kr per enhet legges på produsenter av denne varen.  Tegn en figur som viser tilpasningen nå. På denne figuren tegn inn (i) prisen som konsumenter betaler, (ii) prisen som produsenter mottar, (iii) likevektskvantum, (iv) PO, (v) KO, (vi) skatten som betales inn, og (vii) dødveksttapet som avgiften medfører.      
 
-c) Lag en pen tabell som oppsummerer analysen med de sju elementer fra del b) før og etter avgiften.    
+c) Lag en pen tabell som oppsummerer analysen med de sju elementene fra del b) før og etter avgiften.    
 
 
 
